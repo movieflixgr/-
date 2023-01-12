@@ -1,25 +1,14 @@
 {
   "Movies": [
     {
-      "Title": "Top Gun: Maverick",
-      "ImageBack": "https://upload.wikimedia.org/wikipedia/en/1/13/Top_Gun_Maverick_Poster.jpg",
-      "ImageMain": "https://m.media-amazon.com/images/M/MV5BZWYzOGEwNTgtNWU3NS00ZTQ0LWJkODUtMmVhMjIwMjA1ZmQwXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg",
-      "Video": "https://faae91c8d2c3ca9.embedocdn.com/atlaslionzd/_A6rc2xQyOlV6GGXaCWEsA/1673777532/g3i4lk4rh6kf/bpmbyttvf2nf/video.mp4",
-      "Description": "Με πάνω από τριάντα χρόνια υπηρεσίας ως ένας από τους καλύτερους ιπτάμενους του Ναυτικού, ο Πιτ ‘’Μάβερικ’’ Μίτσελ βρίσκεται εκεί όπου ανήκει. Συμμετέχει σε ακραίες αποστολές ως ένας θαρραλέος δοκιμαστικός πιλότος και αποφεύγει μια πιθανή προαγωγή που θα τον επηρέαζε αρνητικά. Καθώς εκπαιδεύει μερικούς αποσπασμένους πτυχιούχους για μια ειδική αποστολή την οποία δεν έχει βιώσει ποτέ κανένας πιλότος, ο Μάβερικ αντιμετωπίζει τον Υπολοχαγό Μπράντλεϊ Μπράντσο, γιο του μακαρίτη φίλου του Μάβερικ αλλά και τον αξιωματικό παρακολούθησης Υπολοχαγό Νικ Μπράντσο, γνωστούς με τα ψευδώνυμα ‘’Ρούστερ’’ και ‘’Γκουζ’’ αντίστοιχα. Αντιμετωπίζοντας ένα αβέβαιο μέλλον αλλά και τα φαντάσματα του παρελθόντος, ο Μάβερικ βρίσκει τον εαυτό του σε μια πάλη ενάντια στους πιο σκοτεινούς του φόβους, με αποκορύφωμα αυτή την αποστολή που απαιτεί την έσχατη θυσία από εκείνους που θα επιλεχθούν για να τη ζήσουν.",
-      "Year": "2022",
-      "Genre": "Δράμα, Δράση",
-      "Duration": "2:10:14",
-      "isUnlocked": true
-    },
-    {
-      "Title": "Ego O Apaisivsdvdsdvdvdvvdsvdvvsdvdsdvs Apaisiotatos 11Ego O Apaisiotatos 11Ego O Apaisiotatos 11",
-      "ImageBack": "https://upload.wikimedia.org/wikipedia/en/1/13/Top_Gun_Maverick_Poster.jpg",
-      "ImageMain": "https://image.tmdb.org/t/p/original/fjaoD0ZfPOf2C5BalCziPUaf4Zk.jpg",
-      "Video": "https://venom.vtube.to/hls/,x5s46knpnfyki6cgamfmtinjpyg4dodzl63cuxsxxmn2itpk4lctmalbrnya,.urlset/master.m3u8",
-      "Description": "cxdsvd32424c",
-      "Year": "20cveve22",
-      "Genre": "COM323EDY",
-      "Duration": "1h 242443m 23s",
+      "Title": "Jumanji: The Next Level",
+      "ImageBack": "https://m.media-amazon.com/images/M/MV5BYmUzYjNmNDQtODkxYy00MDY3LTkxM2YtMGQwYmM3MWVkMGQyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1280_.jpg",
+      "ImageMain": "https://www.imdb.com/title/tt7975244/mediaviewer/rm2877260289/?ref_=tt_ov_i",
+      "Video": "https://745mingiestblissfully.com/8672jmaugjew",
+      "Description": "Η συνέχεια του «Jumanji» μπορεί να είναι γνώριμη, αλλά δεν παύει να είναι διασκεδαστική. Κι αυτό δεν είναι μικρό κατόρθωμα. Η ταινία θα προβάλλεται από τις 2 Ιανουαρίου μεταγλωττισμένη στα ελληνικά και με ελληνικούς υπότιτλους.",
+      "Year": "2019",
+      "Genre": "Περιπέτεια, Δράση",
+      "Duration": "123 λεπτά",
       "isUnlocked": true
     }
   ]
