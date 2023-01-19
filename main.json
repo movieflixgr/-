@@ -1,8 +1,41 @@
 {
   "Movies": [
     {
+      "Title": "The Menu",
+      "ImageBack": "https://magazine.culturius.com/wp-content/uploads/2022/12/The-Menu.jpg",
+      "ImageMain": "https://m.media-amazon.com/images/M/MV5BMzdjNjI5MmYtODhiNS00NTcyLWEzZmUtYzVmODM5YzExNDE3XkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_.jpg",
+      "Video": "https://www.mediafire.com/file/c4uka8ibbkcl4hw/video.mp4/file",
+      "Description": "Ένα νεαρό ζευγάρι ταξιδεύει σε ένα απομακρυσμένο νησί για να γευματίσει σε ένα πριβέ εστιατόριο όπου ο σεφ έχει ετοιμάσει ένα πλουσιοπάροχο μενού, με μερικές εκπλήξεις… που σοκάρουν.",
+      "Year": "2022",
+      "Genre": "Θρίλερ, Μαύρη Κωμωδία, Σάτιρα, Τρόμου",
+      "Duration": "1 ωρ. 46 λεπ.",
+      "isUnlocked": true
+    },
+    {
+      "Title": "Extraction",
+      "ImageBack": "https://occ-0-1348-58.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABVqcLQpf6mxvyIfcaadFQhph_iN1tmNUjmHziE4hXp6HsNL0ViweqrNA3JUqdX_ukwGIWZzli2G4cry-1PYBFRk22_a8C2LG86Cj.jpg?r=1ef",
+      "ImageMain": "https://m.media-amazon.com/images/M/MV5BNDBkOWNiMTYtMjlkZS00NzJlLTg0ZmUtN2YwYWQ3N2I3N2Y0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+      "Video": "https://www.mediafire.com/file/wp9ge3yvoav5akn/video.mp4/file",
+      "Description": "Ο Τάιλερ Ρέικ, ένας αδίστακτος μισθοφόρος της μαύρης αγοράς, δεν έχει τίποτα να χάσει όταν του ζητούν να σώσει τον απαχθέντα γιο ενός κρατούμενου μεγαλοεγκληματία με διεθνή δράση. Η αποστολή θα τον οδηγήσει στο Μπαγκλαντές.",
+      "Year": "2020",
+      "Genre": "Δράση, Θρίλερ",
+      "Duration": "1 ωρ. 56 λεπ.",
+      "isUnlocked": true
+    },
+    {
+      "Title": "Im Westen Nichts Neues",
+      "ImageBack": "https://image.stern.de/32829204/t/MZ/v2/w1440/r1.7778/-/im-westen-nichts-neues-felix-kammerer.jpg",
+      "ImageMain": "https://de.web.img3.acsta.net/pictures/22/09/06/14/11/0603895.jpg",
+      "Video": "https://www.mediafire.com/file/d3bnsbn2uta4dup/video.mp4/file",
+      "Description": "Η συγκλονιστική ιστορία ενός νεαρού γερμανού στρατιώτη στο Δυτικό Μέτωπο του Α’ Παγκοσμίου Πολέμου. Ο Παούλ και οι σύντροφοί του βιώνουν από πρώτο χέρι πώς η αρχική ευφορία του πολέμου μετατρέπεται σε απόγνωση και φόβο, καθώς πολεμούν για τη ζωή τους, αλλά και ο ένας για τον άλλο, στα χαρακώματα.",
+      "Year": "2022",
+      "Genre": "Δραματικό Θρίλερ, Δράσης, Έπος, Εποχής, Πολεμική",
+      "Duration": "2 ωρ. 27 λεπ.",
+      "isUnlocked": true
+    },
+    {
       "Title": "It: Chapter Two",
-      "ImageBack": "https://sor.gr/wp-content/uploads/2019/07/Screenshot_2019-07-18-19-16-49-913_com.android.chrome.jpg",
+      "ImageBack": "https://m.media-amazon.com/images/M/MV5BZDYxZjAyNGEtNjQyNy00MmM0LTliZTktZWNiNjBmZDZlZGJmXkEyXkFqcGdeQW1yb3NzZXI@._V1_.jpg",
       "ImageMain": "https://img.cineplexx.gr/media/gr/inc/movies_licences/ITChapter2_Plakat.jpg",
       "Video": "https://www.mediafire.com/file/6q5asbsy9m8jsgr/2.mp4/file",
       "Description": "Κάθε 27 χρόνια, το κακό επισκέπτεται την πόλη του Ντέρι. Στο δεύτερο κεφάλαιο, τρεις δεκαετίες μετά, οι δρόμοι των κεντρικών χαρακτήρων διασταυρώνονται και πάλι. Μπορεί οι φίλοι από το Κλαμπ των Χαμένων να έχουν μεγαλώσει και να έχουν φύγει μακριά, αλλά ένα κρίσιμο τηλεφώνημα τούς φέρνει πίσω εκεί όπου όλα ξεκίνησαν.",
