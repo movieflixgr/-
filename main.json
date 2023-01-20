@@ -1,6 +1,28 @@
 {
   "Movies": [
     {
+      "Title": "Everything Everywhere All at Once",
+      "ImageBack": "https://www.filmy.gr/wp-content/uploads/2022/03/Everything-Everywhere-All-at-Once-1-300x188.jpg",
+      "ImageMain": "https://upload.wikimedia.org/wikipedia/en/1/1e/Everything_Everywhere_All_at_Once.jpg",
+      "Video": "https://www.mediafire.com/file/9uljkb871c99iop/video.mp4/file",
+      "Description": "Μια ηλικιωμένη κινέζα μετανάστρια παρασύρεται σε μια τρελή περιπέτεια, όπου μόνη της μπορεί να σώσει τον κόσμο εξερευνώντας άλλα παράλληλα σύμπαντα που συνδέονται με τις ζωές που θα μπορούσε να έχει ζήσει.",
+      "Year": "2022",
+      "Genre": "Δράση, Επιστημονική Φαντασία",
+      "Duration": "2 ωρ. 19 λεπ.",
+      "isUnlocked": true
+    },
+    {
+      "Title": "Interstellar",
+      "ImageBack": "https://www.nextflicks.tv/wp-content/uploads/2022/10/Interstellar-1620x800.jpg",
+      "ImageMain": "https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg",
+      "Video": "https://www.mediafire.com/file/9wp40j5fx5ufx2r/video.mp4/file",
+      "Description": "Με την ανθρωπότητα να οδεύει προς την εξαφάνιση, μια ομάδα αστροναυτών ταξιδεύει μέσα σε μια σκουληκότρυπα, αναζητώντας άλλον κατοικήσιμο πλανήτη.",
+      "Year": "2014",
+      "Genre": "Επιστημονική φαντασία",
+      "Duration": "2ώ 49λ",
+      "isUnlocked": true
+    },
+    {
       "Title": "Dog Gone",
       "ImageBack": "https://i0.wp.com/theubj.com/wp-content/uploads/2022/12/AAAABTAKUJR2cw08ckgC3d9XsZy0oBf0WYbg2Hnp5WNmQEnByUCiDoiw4sGhct3KiZB5cPpS9tyOPQhoqSzpaEgkuAxFSItHgXKBQLEg.jpg",
       "ImageMain": "https://m.media-amazon.com/images/M/MV5BMjdhMTg2YTQtZjNlOC00MGEyLThkODAtNDg2NDU5NDcwMTc1XkEyXkFqcGdeQXVyMTUzNzc3NDAz._V1_.jpg",
@@ -151,17 +173,6 @@
       "Title": "The Banshees of Inisherin",
       "ImageBack": "https://m.media-amazon.com/images/M/MV5BOTEzMjU2Y2ItYzc3NC00N2IwLTg2MDMtNGM2M2Y4OTE5ZWM3XkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg",
       "ImageMain": "https://m.media-amazon.com/images/M/MV5BOTEzMjU2Y2ItYzc3NC00N2IwLTg2MDMtNGM2M2Y4OTE5ZWM3XkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg",
-      "Video": "https://marlin.vtube.to/hls/,x5s47en5nfyki6cgamf4tjvcg5aq3z7i3chzpynalxgnbirg36rw3omblfga,.urlset/master.m3u8",
-      "Description": "Στην αληθινή ιστορία του Thirteen Lives, δώδεκα αγόρια και ο προπονητής μιας ομάδας ποδοσφαίρου από την Ταϊλάνδη εξερευνούν τη σπηλιά Tham Luang όταν μια απροσδόκητη καταιγίδα τους παγιδεύει σε έναν θύλακα στο βουνό. Θαμμένοι κάτω από έναν λαβύρινθο από πλημμυρισμένες σήραγγες σπηλαίων, θα αντιμετωπίσουν τις πιθανότητες που βρίσκονται εναντίον τους. Μια ομάδα δυτών παγκόσμιας κλάσης περιηγείται σε μίλια επικίνδυνων δικτύων σπηλαίων για να ανακαλύψει ότι η εύρεση των αγοριών είναι μόνο η αρχή.",
-      "Year": "2022",
-      "Genre": "Επιβίωση, Περιπέτεια",
-      "Duration": "2 ωρ. 27 λεπ.",
-      "isUnlocked": false
-    },
-    {
-      "Title": "Everything Everywhere All at Once",
-      "ImageBack": "https://upload.wikimedia.org/wikipedia/en/1/1e/Everything_Everywhere_All_at_Once.jpg",
-      "ImageMain": "https://upload.wikimedia.org/wikipedia/en/1/1e/Everything_Everywhere_All_at_Once.jpg",
       "Video": "https://marlin.vtube.to/hls/,x5s47en5nfyki6cgamf4tjvcg5aq3z7i3chzpynalxgnbirg36rw3omblfga,.urlset/master.m3u8",
       "Description": "Στην αληθινή ιστορία του Thirteen Lives, δώδεκα αγόρια και ο προπονητής μιας ομάδας ποδοσφαίρου από την Ταϊλάνδη εξερευνούν τη σπηλιά Tham Luang όταν μια απροσδόκητη καταιγίδα τους παγιδεύει σε έναν θύλακα στο βουνό. Θαμμένοι κάτω από έναν λαβύρινθο από πλημμυρισμένες σήραγγες σπηλαίων, θα αντιμετωπίσουν τις πιθανότητες που βρίσκονται εναντίον τους. Μια ομάδα δυτών παγκόσμιας κλάσης περιηγείται σε μίλια επικίνδυνων δικτύων σπηλαίων για να ανακαλύψει ότι η εύρεση των αγοριών είναι μόνο η αρχή.",
       "Year": "2022",
