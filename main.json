@@ -1,6 +1,39 @@
 {
   "Movies": [
     {
+      "Title": "Glass Onion: A Knives Out Mystery",
+      "ImageBack": "https://i0.wp.com/theubj.com/wp-content/uploads/2022/12/AAAABTAKUJR2cw08ckgC3d9XsZy0oBf0WYbg2Hnp5WNmQEnByUCiDoiw4sGhct3KiZB5cPpS9tyOPQhoqSzpaEgkuAxFSItHgXKBQLEg.jpg",
+      "ImageMain": "https://m.media-amazon.com/images/M/MV5BMjdhMTg2YTQtZjNlOC00MGEyLThkODAtNDg2NDU5NDcwMTc1XkEyXkFqcGdeQXVyMTUzNzc3NDAz._V1_.jpg",
+      "Video": "https://www.mediafire.com/file/9wp40j5fx5ufx2r/video.mp4/file",
+      "Description": "Όταν το αγαπημένο του σκυλί εξαφανίζεται, ένας νεαρός, μαζί με τους γονείς του, ξεκινά μια απίθανη αναζήτηση για να το βρει και να του δώσει σωτήρια φάρμακα.",
+      "Year": "2023",
+      "Genre": "Οικογένεια, Περιπέτεια",
+      "Duration": "1ώ 35λ",
+      "isUnlocked": true
+    },
+    {
+      "Title": "Glass Onion: A Knives Out Mystery",
+      "ImageBack": "https://occ-0-999-3211.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABekeLR1_UTvm-LGCdAfnoJm8ghWkXLS8izpG3FQ9ok9fwONCMPKSy6iLZz82y9QqnSgbgBBJNw0DsROmZ3Ye3c0ERgCAp7yLMvy5.jpg?r=878",
+      "ImageMain": "https://www.filmy.gr/wp-content/uploads/2022/11/Glass-Onion-A-Knives-Out-Mystery-53.jpg",
+      "Video": "https://www.mediafire.com/file/xvr45mnbp1832dm/video.mp4/file",
+      "Description": "Ο ατρόμητος ντετέκτιβ Μπενουά Μπλαν βρίσκεται σε μια πολυτελή έπαυλη σε ένα ελληνικό νησί, αλλά το πώς και το γιατί βρέθηκε εκεί είναι ένας από τους πολλούς γρίφους. Σε σύντομο χρονικό διάστημα, ο Μπλαν συναντά μια χαρακτηριστικά ετερόκλητη παρέα φίλων που έλαβαν την πρόσκληση του δισεκατομμυριούχου Μάιλς Μπρον για την ετήσια συνάντησή τους. Στη λίστα των καλεσμένων συγκαταλέγονται ο πρώην συνεταίρος του Μάιλς, Άντι Μπραντ, η τρέχουσα κυβερνήτρια του Κονέκτικατ, Κλερ Ντεμπέλα, ο ιδιοφυής επιστήμονας Λάιονελ Τουσέν, η σχεδιάστρια μόδας και πρώην μοντέλο, Μπέρντι Τζέι, με την επιμελή βοηθό της, Πεγκ, και ο influencer Ντιουκ Κόντι με τη φιλενάδα του, Ουίσκι.",
+      "Year": "2022",
+      "Genre": "Μαύρη Κωμωδία, Μυστηρίου",
+      "Duration": "2 ωρ. 19 λεπ.",
+      "isUnlocked": true
+    },
+    {
+      "Title": "The Happening",
+      "ImageBack": "https://www.indiewire.com/wp-content/uploads/2022/10/The-Pale-Blue-Eye.jpg",
+      "ImageMain": "https://www.filmy.gr/wp-content/uploads/2023/01/The-Pale-Blue-Eye-50.jpg",
+      "Video": "https://www.mediafire.com/file/g9lqnonzxhfy3an/video.mp4/file",
+      "Description": "Γουέστ Πόιντ, 1830. Ένας αποκαρδιωμένος ντετέκτιβ αναλαμβάνει να ερευνήσει σιωπηρά τη βάναυση δολοφονία ενός δόκιμου στρατιωτικού. Αντιμέτωπος όμως με τον δεσμευτικό κώδικα σιωπής των δοκίμων, ζητά από έναν συνάδελφο του θύματος να τον βοηθήσει να διαλευκάνει την υπόθεση -έναν νεαρό άντρα με το όνομα Έντγκαρ Άλαν Πόε.",
+      "Year": "2022",
+      "Genre": "Αστυνομική, Εποχής",
+      "Duration": "2 ωρ. 08 λεπ.",
+      "isUnlocked": true
+    },
+    {
       "Title": "The Happening",
       "ImageBack": "https://is5-ssl.mzstatic.com/image/thumb/E_2s3cLTaIfaHhLd4tYyHQ/1200x675mf.jpg",
       "ImageMain": "https://www.filmy.gr/wp-content/uploads/2020/03/The-Happening.jpg",
@@ -129,17 +162,6 @@
       "Title": "Everything Everywhere All at Once",
       "ImageBack": "https://upload.wikimedia.org/wikipedia/en/1/1e/Everything_Everywhere_All_at_Once.jpg",
       "ImageMain": "https://upload.wikimedia.org/wikipedia/en/1/1e/Everything_Everywhere_All_at_Once.jpg",
-      "Video": "https://marlin.vtube.to/hls/,x5s47en5nfyki6cgamf4tjvcg5aq3z7i3chzpynalxgnbirg36rw3omblfga,.urlset/master.m3u8",
-      "Description": "Στην αληθινή ιστορία του Thirteen Lives, δώδεκα αγόρια και ο προπονητής μιας ομάδας ποδοσφαίρου από την Ταϊλάνδη εξερευνούν τη σπηλιά Tham Luang όταν μια απροσδόκητη καταιγίδα τους παγιδεύει σε έναν θύλακα στο βουνό. Θαμμένοι κάτω από έναν λαβύρινθο από πλημμυρισμένες σήραγγες σπηλαίων, θα αντιμετωπίσουν τις πιθανότητες που βρίσκονται εναντίον τους. Μια ομάδα δυτών παγκόσμιας κλάσης περιηγείται σε μίλια επικίνδυνων δικτύων σπηλαίων για να ανακαλύψει ότι η εύρεση των αγοριών είναι μόνο η αρχή.",
-      "Year": "2022",
-      "Genre": "Επιβίωση, Περιπέτεια",
-      "Duration": "2 ωρ. 27 λεπ.",
-      "isUnlocked": false
-    },
-    {
-      "Title": "Happening",
-      "ImageBack": "https://m.media-amazon.com/images/M/MV5BMTc2MjcwNjI0MF5BMl5BanBnXkFtZTcwMjM4NjM3MQ@@._V1_FMjpg_UX1000_.jpg",
-      "ImageMain": "https://m.media-amazon.com/images/M/MV5BMTc2MjcwNjI0MF5BMl5BanBnXkFtZTcwMjM4NjM3MQ@@._V1_FMjpg_UX1000_.jpg",
       "Video": "https://marlin.vtube.to/hls/,x5s47en5nfyki6cgamf4tjvcg5aq3z7i3chzpynalxgnbirg36rw3omblfga,.urlset/master.m3u8",
       "Description": "Στην αληθινή ιστορία του Thirteen Lives, δώδεκα αγόρια και ο προπονητής μιας ομάδας ποδοσφαίρου από την Ταϊλάνδη εξερευνούν τη σπηλιά Tham Luang όταν μια απροσδόκητη καταιγίδα τους παγιδεύει σε έναν θύλακα στο βουνό. Θαμμένοι κάτω από έναν λαβύρινθο από πλημμυρισμένες σήραγγες σπηλαίων, θα αντιμετωπίσουν τις πιθανότητες που βρίσκονται εναντίον τους. Μια ομάδα δυτών παγκόσμιας κλάσης περιηγείται σε μίλια επικίνδυνων δικτύων σπηλαίων για να ανακαλύψει ότι η εύρεση των αγοριών είναι μόνο η αρχή.",
       "Year": "2022",
