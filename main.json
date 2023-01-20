@@ -1,6 +1,17 @@
 {
   "Movies": [
     {
+      "Title": "The Happening",
+      "ImageBack": "https://is5-ssl.mzstatic.com/image/thumb/E_2s3cLTaIfaHhLd4tYyHQ/1200x675mf.jpg",
+      "ImageMain": "https://www.filmy.gr/wp-content/uploads/2020/03/The-Happening.jpg",
+      "Video": "https://www.mediafire.com/file/rg5scs4suokpmpp/video.mp4/file",
+      "Description": "Όλα αρχίζουν μια μέρα σαν όλες τις άλλες, με τις μαζικές αυτοκτονίες. Αμέτρητοι άνθρωποι αυτοκτονούν με οποιοδήποτε τρόπο. Ενώ η ανθρωπότητα βρίσκεται στο χείλος της καταστροφής, ο Έλιοτ Μουρ προσπαθεί να σώσει την οικογένειά του και να κατανοήσει τι κρύβεται πίσω από το φρικιαστικό ανεξήγητο φαινόμενο. Το είχαμε διαισθανθεί όμως. Όλα τα σημάδια ήταν εκεί. Τώρα συμβαίνει…",
+      "Year": "2022",
+      "Genre": "Θρίλερ, Τρόμου",
+      "Duration": "1 ώ. 31 λ",
+      "isUnlocked": true
+    },
+    {
       "Title": "The Menu",
       "ImageBack": "https://magazine.culturius.com/wp-content/uploads/2022/12/The-Menu.jpg",
       "ImageMain": "https://m.media-amazon.com/images/M/MV5BMzdjNjI5MmYtODhiNS00NTcyLWEzZmUtYzVmODM5YzExNDE3XkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_.jpg",
