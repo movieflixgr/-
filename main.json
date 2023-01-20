@@ -1,6 +1,17 @@
 {
   "Movies": [
     {
+      "Title": "Fire of Love",
+      "ImageBack": "https://www.filmy.gr/wp-content/uploads/2022/11/Fire-of-Love-2022-7-300x188.jpg",
+      "ImageMain": "https://m.media-amazon.com/images/M/MV5BOTMwNjMxOWQtYTEyOC00OTUyLTlhMTItOGFkOTJkMWM1NDQ5XkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_FMjpg_UX1000_.jpg",
+      "Video": "https://www.mediafire.com/file/za9zsxe4o5nsd2c/video.mp4/file",
+      "Description": "Η Κάτια και ο Μορίς Κραφτ αγαπούσαν δύο πράγματα: ο ένας τον άλλον και τα ηφαίστεια. Το ζευγάρι περιπλανιόταν στον πλανήτη, κυνηγώντας εκρήξεις και καταγράφοντας τις ανακαλύψεις τους. Πέθαναν το 1991, αλλά άφησαν μια παρακαταθήκη, η οποία εμπλούτισε την κατανόησή μας για τον φυσικό κόσμο. Αντλώντας πληροφορίες από το αρχείο τους, η Φωτιά της Αγάπης αφηγείται μια ιστορία δημιουργίας και καταστροφής, καθώς οι δύο επιστήμονες εξερευνούν στο άγνωστο για χάρη της αγάπης.",
+      "Year": "2022",
+      "Genre": "Αισθηματική, Βιογραφία",
+      "Duration": "1 ωρ. 33 λεπ.",
+      "isUnlocked": true
+    },
+    {
       "Title": "Everything Everywhere All at Once",
       "ImageBack": "https://www.filmy.gr/wp-content/uploads/2022/03/Everything-Everywhere-All-at-Once-1-300x188.jpg",
       "ImageMain": "https://upload.wikimedia.org/wikipedia/en/1/1e/Everything_Everywhere_All_at_Once.jpg",
@@ -173,17 +184,6 @@
       "Title": "The Banshees of Inisherin",
       "ImageBack": "https://m.media-amazon.com/images/M/MV5BOTEzMjU2Y2ItYzc3NC00N2IwLTg2MDMtNGM2M2Y4OTE5ZWM3XkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg",
       "ImageMain": "https://m.media-amazon.com/images/M/MV5BOTEzMjU2Y2ItYzc3NC00N2IwLTg2MDMtNGM2M2Y4OTE5ZWM3XkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg",
-      "Video": "https://marlin.vtube.to/hls/,x5s47en5nfyki6cgamf4tjvcg5aq3z7i3chzpynalxgnbirg36rw3omblfga,.urlset/master.m3u8",
-      "Description": "Στην αληθινή ιστορία του Thirteen Lives, δώδεκα αγόρια και ο προπονητής μιας ομάδας ποδοσφαίρου από την Ταϊλάνδη εξερευνούν τη σπηλιά Tham Luang όταν μια απροσδόκητη καταιγίδα τους παγιδεύει σε έναν θύλακα στο βουνό. Θαμμένοι κάτω από έναν λαβύρινθο από πλημμυρισμένες σήραγγες σπηλαίων, θα αντιμετωπίσουν τις πιθανότητες που βρίσκονται εναντίον τους. Μια ομάδα δυτών παγκόσμιας κλάσης περιηγείται σε μίλια επικίνδυνων δικτύων σπηλαίων για να ανακαλύψει ότι η εύρεση των αγοριών είναι μόνο η αρχή.",
-      "Year": "2022",
-      "Genre": "Επιβίωση, Περιπέτεια",
-      "Duration": "2 ωρ. 27 λεπ.",
-      "isUnlocked": false
-    },
-    {
-      "Title": "Fire of Love",
-      "ImageBack": "https://m.media-amazon.com/images/M/MV5BOTMwNjMxOWQtYTEyOC00OTUyLTlhMTItOGFkOTJkMWM1NDQ5XkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_FMjpg_UX1000_.jpg",
-      "ImageMain": "https://m.media-amazon.com/images/M/MV5BOTMwNjMxOWQtYTEyOC00OTUyLTlhMTItOGFkOTJkMWM1NDQ5XkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_FMjpg_UX1000_.jpg",
       "Video": "https://marlin.vtube.to/hls/,x5s47en5nfyki6cgamf4tjvcg5aq3z7i3chzpynalxgnbirg36rw3omblfga,.urlset/master.m3u8",
       "Description": "Στην αληθινή ιστορία του Thirteen Lives, δώδεκα αγόρια και ο προπονητής μιας ομάδας ποδοσφαίρου από την Ταϊλάνδη εξερευνούν τη σπηλιά Tham Luang όταν μια απροσδόκητη καταιγίδα τους παγιδεύει σε έναν θύλακα στο βουνό. Θαμμένοι κάτω από έναν λαβύρινθο από πλημμυρισμένες σήραγγες σπηλαίων, θα αντιμετωπίσουν τις πιθανότητες που βρίσκονται εναντίον τους. Μια ομάδα δυτών παγκόσμιας κλάσης περιηγείται σε μίλια επικίνδυνων δικτύων σπηλαίων για να ανακαλύψει ότι η εύρεση των αγοριών είναι μόνο η αρχή.",
       "Year": "2022",
