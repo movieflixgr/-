@@ -1,6 +1,28 @@
 {
   "Movies": [
     {
+      "Title": "Enola Holmes 2",
+      "ImageBack": "https://occ.a.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABVdnT6qvc7r_VeXMiutH6IGWShsVXBRD0RGYDtVVHU4VeJIHOq02hDaKt6h0VhFU95eJvPabPbuGvFP2Hddtlg8AF3zIjkqwRwc5.jpg?r=67e",
+      "ImageMain": "https://upload.wikimedia.org/wikipedia/en/4/4b/Enola_Holmes_2_poster.png",
+      "Video": "https://www.mediafire.com/file/h2smuvsylfz1zoo/video.mp4/file",
+      "Description": "Η Ενόλα Χολμς, που μόλις έλυσε την πρώτη της υπόθεση, ακολουθεί τα χνάρια του διάσημου αδερφού της, Σέρλοκ, και ανοίγει το δικό της γραφείο. Ανακαλύπτει όμως ότι η ζωή μιας γυναίκας ντετέκτιβ δεν είναι τόσο εύκολη όσο φαίνεται. Ενώ συμφιλιώνεται με τη σκληρή πραγματικότητα της ενήλικης ζωής και είναι έτοιμη να κλείσει την επιχείρηση, ένα πάμπτωχο κορίτσι από ένα εργοστάσιο σπίρτων τής δίνει την πρώτη της επίσημη δουλειά: να βρει την αγνοούμενη αδερφή της. Όμως αυτή η υπόθεση αποδεικνύεται πολύ πιο αινιγματική απ’ ό,τι αναμενόταν, καθώς η Ενόλα ρίχνεται σε έναν επικίνδυνο νέο κόσμο, από τα σκοτεινά εργοστάσια του Λονδίνου και τις φανταχτερές αίθουσες συναυλιών, στα υψηλότερα κοινωνικά στρώματα και την ίδια την οδό Μπέικερ 221B. Καθώς πυροδοτείται μια θανάσιμη συνωμοσία, η Ενόλα πρέπει να ζητήσει τη βοήθεια των φίλων της -και του ίδιου του Σέρλοκ- για να λύσει το μυστήριο. Όπως φαίνεται, ξαναβρήκε τα πατήματά της!",
+      "Year": "2022",
+      "Genre": "Μυστηρίου, Περιπέτεια",
+      "Duration": "2 ωρ. 09 λεπ.",
+      "isUnlocked": true
+    },
+    {
+      "Title": "Hustle",
+      "ImageBack": "https://www.indiewire.com/wp-content/uploads/2022/06/AAAAQfOWwA0Hs7r9O4szpElMwopMfomqvAKV2WeEXUfrRXX-DaMUFqdKzYnysN6uPdjUHrgNM1ogNDlyqCWuGfrF0WncEnpFKJZ8vCZA7_3Fu4J_M0vHWLz4rILfPs31DQJjVLnQa98fDoJXxRdxaXHtapgx660.jpeg",
+      "ImageMain": "https://m.media-amazon.com/images/M/MV5BYjdhYTE3NjMtZjI3OC00NzVlLWFiNTUtNzQ3NDNiNTI3NDg4XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",
+      "Video": "https://www.mediafire.com/file/tzws7o2bjzjipc9/video.mp4/file",
+      "Description": "Αφού ανακαλύπτει έναν εκπληκτικό παίκτη με ταραχώδες παρελθόν στο εξωτερικό, ένα άτυχος σκάουτερ του μπάσκετ αναλαμβάνει να φέρει το φαινόμενο στις Ηνωμένες Πολιτείες χωρίς την έγκριση της ομάδας του. Κόντρα στις πιθανότητες, έχουν μια τελευταία ευκαιρία για να αποδείξουν ότι έχουν ό,τι χρειάζεται για να τα καταφέρουν στο ΝΒΑ.",
+      "Year": "2022",
+      "Genre": "Αθλητική, Δραμεντί",
+      "Duration": "1 ωρ. 57 λεπ.",
+      "isUnlocked": true
+    },
+    {
       "Title": "Knocked Up",
       "ImageBack": "https://m.media-amazon.com/images/M/MV5BMTU3OTgyNjk5OF5BMl5BanBnXkFtZTYwODk2ODc2._V1_.jpg",
       "ImageMain": "https://m.media-amazon.com/images/M/MV5BN2MwZTVlZGYtMjIxOS00YmYzLTg0Y2ItNDc5OWY1ZDZlMWVlXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg",
