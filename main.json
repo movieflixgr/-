@@ -1,6 +1,17 @@
 {
   "Movies": [
     {
+      "Title": "The Social Dilemma",
+      "ImageBack": "https://m.media-amazon.com/images/M/MV5BYjI3YTM2YzgtMzMzZS00OTVmLTlhY2MtZjdkMWIzNjFiYzgzXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+      "ImageMain": "https://upload.wikimedia.org/wikipedia/en/2/27/Social_dilemma_xlg.jpg",
+      "Video": "https://www.mediafire.com/file/whr8qidf40bl5oy/video.mp4/file",
+      "Description": "Ένα ντοκιμαντέρ για τον εθισμό που δημιουργούν τα μέσα κοινωνικής δικτύωσης στα άτομα που τα χρησιμοποιούν, και για τον τρόπο που εκμεταλλεύονται αυτό τον εθισμό τους οι διαχειριστές τους.",
+      "Year": "2020",
+      "Genre": "Ντοκιμαντέρ",
+      "Duration": "1 ωρ. 34 λεπ.",
+      "isUnlocked": true
+    },
+    {
       "Title": "Enola Holmes 2",
       "ImageBack": "https://occ.a.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABVdnT6qvc7r_VeXMiutH6IGWShsVXBRD0RGYDtVVHU4VeJIHOq02hDaKt6h0VhFU95eJvPabPbuGvFP2Hddtlg8AF3zIjkqwRwc5.jpg?r=67e",
       "ImageMain": "https://upload.wikimedia.org/wikipedia/en/4/4b/Enola_Holmes_2_poster.png",
