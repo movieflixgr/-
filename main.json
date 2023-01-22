@@ -1,6 +1,39 @@
 {
   "Movies": [
     {
+      "Title": "Bullet Train",
+      "ImageBack": "https://ca-times.brightspotcdn.com/dims4/default/575bcf7/2147483647/strip/true/crop/6000x4000+0+0/resize/1486x991!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe5%2Ff2%2F93a9050a4507912a219147c7921a%2Fbullet-train.jpg",
+      "ImageMain": "https://upload.wikimedia.org/wikipedia/en/1/13/Bullet_Train_%28poster%29.jpeg",
+      "Video": "https://www.mediafire.com/file/fz9shlnlij7hib4/video.mp4/file",
+      "Description": "Ο Λέιντιμπαγκ είναι ένας κάπως κακότυχος επαγγελματίας δολοφόνος, που είναι αποφασισμένος αυτή τη φορά να κάνει τη δουλειά του με την ησυχία του μετά από σειρά αποτυχιών. Η μοίρα όμως έχει τα δικά της σχέδια, και έτσι η τελευταία αποστολή του τον φέρνει σε μια ξέφρενη πορεία σύγκρουσης με φονικούς αντιπάλους από όλη την υφήλιο -όλοι με σχετικούς, αλλά αντικρουόμενους σκοπούς- πάνω στο πιο γρήγορο τρένο του κόσμου, με έναν βασικό σκοπό: να βρει έναν τρόπο να κατέβει από αυτό το τρένο.",
+      "Year": "2022",
+      "Genre": "Αστυνομική, Δράσης",
+      "Duration": "2 ωρ. 06 λεπ.",
+      "isUnlocked": true
+    },
+    {
+      "Title": "Before Sunset",
+      "ImageBack": "https://m.media-amazon.com/images/M/MV5BODY0MTA4MzgyNF5BMl5BanBnXkFtZTYwNDI0MTc3._V1_.jpg",
+      "ImageMain": "https://m.media-amazon.com/images/M/MV5BMTQ1MjAwNTM5Ml5BMl5BanBnXkFtZTYwNDM0MTc3._V1_.jpg",
+      "Video": "https://www.mediafire.com/file/lkrzp5thjkgtbta/video.mp4/file",
+      "Description": "Ήταν μια συνάντηση αναπότρεπτη, καθόλου τυχαία, όπως τίποτα τυχαίο δεν συμβαίνει στο σύμπαν. Ο Τζέσι γνώρισε τη Σελίν στο τρένο. Έζησαν δεκατέσσερις ώρες μαζί στους δρόμους της Βιέννης, χωρίς κανόνες, χωρίς υποσχέσεις, μέχρι το επόμενο τρένο. Ο χρόνος, μοναδικός κυβερνήτης του ερωτικού ταξιδιού, όρισε το τέλος. Εκείνοι ορκίστηκαν να συναντηθούν ξανά σε έξι μήνες. Εννιά χρόνια πέρασαν από τότε. Ο Τζέσι παρουσίαζε το νέο μυθιστόρημά του σε ένα βιβλιοπωλείο στο Παρίσι, όταν την είδε να κάθεται στα πίσω καθίσματα. Εκείνη ζει τώρα στο Παρίσι, αυτός στη Νέα Υόρκη. Ήταν σαν να μην είχε περάσει ούτε ένα λεπτό από την ημέρα που την είδε για τελευταία φορά. Κατάλαβε ότι ζούσαν έναν έρωτα μοιραίο, που αψηφούσε το χρόνο. Η πτήση του Τζέσι έφευγε το απόγευμα. Είχαν λίγες μόνο ώρες για να θυμηθούν όσα έζησαν στη Βιέννη.",
+      "Year": "2004",
+      "Genre": "Αισθηματική, Δραματική",
+      "Duration": "1 ωρ. 20 λεπ.",
+      "isUnlocked": true
+    },
+    {
+      "Title": "Halloween Ends",
+      "ImageBack": "https://variety.com/wp-content/uploads/2022/10/halloween-ends.jpg?w=681&h=383&crop=1",
+      "ImageMain": "https://m.media-amazon.com/images/M/MV5BZWQ5YzU5MTMtZmY1OS00Zjc1LWFjN2QtMzY4ZmRjNzFlNzQ1XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+      "Video": "https://www.mediafire.com/file/kcvgfowpkh4058t/video.mp4/file",
+      "Description": "Τέσσερα χρόνια μετά τα τελευταία τρομακτικά γεγονότα, η Λόρι ζει με την εγγονή της, Άλισον, και ολοκληρώνει τη συγγραφή των απομνημονευμάτων της. Ο Μάικλ Μάιερς δεν έχει εμφανιστεί έκτοτε. Η Λόρι, αφού επέτρεψε στο φάντασμα του Μάικλ να καθορίζει τη ζωή της για δεκαετίες, αποφάσισε να απελευθερωθεί επιτέλους από τον φόβο και την οργή και να αγκαλιάσει τη ζωή. Όταν όμως ένας νεαρός άνδρας, ο Κόρεϊ Κάνινχαμ, κατηγορείται ότι σκότωσε ένα αγόρι που είχε υπό την επίβλεψή του, ξαφνικά πυροδοτείται ένας καταιγισμός βίας και τρόμου που θα αναγκάσει τη Λόρι να αντιμετωπίσει επιτέλους το κακό που δεν κατάφερε ποτέ να ελέγξει, μια για πάντα.",
+      "Year": "2022",
+      "Genre": "Θρίλερ, Τρόμου",
+      "Duration": "1 ωρ. 51 λεπ.",
+      "isUnlocked": true
+    },
+    {
       "Title": "Spider-Man: No Way Home",
       "ImageBack": "https://m.media-amazon.com/images/M/MV5BNzgwNTVjYWQtNTY3YS00NzIzLTg1ZDAtYTA5MDNkNWZhZjA5XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg",
       "ImageMain": "https://m.media-amazon.com/images/M/MV5BZWMyYzFjYTYtNTRjYi00OGExLWE2YzgtOGRmYjAxZTU3NzBiXkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_.jpg",
@@ -235,28 +268,6 @@
       "Genre": "Τρόμου, Φαντασίας",
       "Duration": "2 ωρ. 49 λεπ.",
       "isUnlocked": true
-    },
-    {
-      "Title": "Δεκατρείς Ζωές",
-      "ImageBack": "https://www.filmy.gr/wp-content/uploads/2022/08/Thirteen-Lives-2022-5-300x188.jpg",
-      "ImageMain": "https://www.filmy.gr/wp-content/uploads/2022/08/Thirteen-Lives-2022-50.jpg",
-      "Video": "https://marlin.vtube.to/hls/,x5s47en5nfyki6cgamf4tjvcg5aq3z7i3chzpynalxgnbirg36rw3omblfga,.urlset/master.m3u8",
-      "Description": "Στην αληθινή ιστορία του Thirteen Lives, δώδεκα αγόρια και ο προπονητής μιας ομάδας ποδοσφαίρου από την Ταϊλάνδη εξερευνούν τη σπηλιά Tham Luang όταν μια απροσδόκητη καταιγίδα τους παγιδεύει σε έναν θύλακα στο βουνό. Θαμμένοι κάτω από έναν λαβύρινθο από πλημμυρισμένες σήραγγες σπηλαίων, θα αντιμετωπίσουν τις πιθανότητες που βρίσκονται εναντίον τους. Μια ομάδα δυτών παγκόσμιας κλάσης περιηγείται σε μίλια επικίνδυνων δικτύων σπηλαίων για να ανακαλύψει ότι η εύρεση των αγοριών είναι μόνο η αρχή.",
-      "Year": "2022",
-      "Genre": "Επιβίωση, Περιπέτεια",
-      "Duration": "2 ωρ. 27 λεπ.",
-      "isUnlocked": false
-    },
-    {
-      "Title": "The Banshees of Inisherin",
-      "ImageBack": "https://m.media-amazon.com/images/M/MV5BOTEzMjU2Y2ItYzc3NC00N2IwLTg2MDMtNGM2M2Y4OTE5ZWM3XkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg",
-      "ImageMain": "https://m.media-amazon.com/images/M/MV5BOTEzMjU2Y2ItYzc3NC00N2IwLTg2MDMtNGM2M2Y4OTE5ZWM3XkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg",
-      "Video": "https://marlin.vtube.to/hls/,x5s47en5nfyki6cgamf4tjvcg5aq3z7i3chzpynalxgnbirg36rw3omblfga,.urlset/master.m3u8",
-      "Description": "Στην αληθινή ιστορία του Thirteen Lives, δώδεκα αγόρια και ο προπονητής μιας ομάδας ποδοσφαίρου από την Ταϊλάνδη εξερευνούν τη σπηλιά Tham Luang όταν μια απροσδόκητη καταιγίδα τους παγιδεύει σε έναν θύλακα στο βουνό. Θαμμένοι κάτω από έναν λαβύρινθο από πλημμυρισμένες σήραγγες σπηλαίων, θα αντιμετωπίσουν τις πιθανότητες που βρίσκονται εναντίον τους. Μια ομάδα δυτών παγκόσμιας κλάσης περιηγείται σε μίλια επικίνδυνων δικτύων σπηλαίων για να ανακαλύψει ότι η εύρεση των αγοριών είναι μόνο η αρχή.",
-      "Year": "2022",
-      "Genre": "Επιβίωση, Περιπέτεια",
-      "Duration": "2 ωρ. 27 λεπ.",
-      "isUnlocked": false
     }
   ]
 }
