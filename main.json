@@ -1,6 +1,39 @@
 {
   "Movies": [
     {
+      "Title": "Spider-Man: No Way Home",
+      "ImageBack": "https://m.media-amazon.com/images/M/MV5BNzgwNTVjYWQtNTY3YS00NzIzLTg1ZDAtYTA5MDNkNWZhZjA5XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg",
+      "ImageMain": "https://m.media-amazon.com/images/M/MV5BZWMyYzFjYTYtNTRjYi00OGExLWE2YzgtOGRmYjAxZTU3NzBiXkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_.jpg",
+      "Video": "https://www.mediafire.com/file/kujubo4gxeiliim/video.mp4/file",
+      "Description": "Για πρώτη φορά στην κινηματογραφική του ιστορία, ο Spider-Man αποκαλύπτει το πρόσωπό του και δυσκολεύεται να διαχωρίσει την κανονική από τη γεμάτη ρίσκο ζωή ενός σούπερ ήρωα. Όταν ζητά βοήθεια από τον Doctor Strange, το ρίσκο γίνεται ακόμα μεγαλύτερο και τον φέρνει αντιμέτωπο με το τι πραγματικά σημαίνει να είσαι ο Άνθρωπος Αράχνη.",
+      "Year": "2021",
+      "Genre": "Δράσης, Επιστημονικής Φαντασίας",
+      "Duration": "2 ωρ. 28 λεπ.",
+      "isUnlocked": true
+    },
+    {
+      "Title": "Black Panther: Wakanda Forever",
+      "ImageBack": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2022/04/28/16511668805764.jpg",
+      "ImageMain": "https://m.media-amazon.com/images/M/MV5BY2FlN2U2NzMtOWE2Ni00MWIyLTk3YzQtM2RjNDFkNTlhYTZmXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+      "Video": "https://www.mediafire.com/file/phku896s0c2g2z4/video.mp4/file",
+      "Description": "Mετά τον θάνατο του βασιλιά Τ’Τσάλα, η βασίλισσα Ραμόντα, η Σούρι, ο Μ’Μπακού, η Οκόγιε και οι Ντόρα Μιλιάγε πολεμούν για να προστατεύσουν το έθνος τους από τις παγκόσμιες δυνάμεις. Ενώ οι κάτοικοι της Γουακάντα προσπαθούν να προχωρήσουν, οι ήρωες πρέπει να ενώσουν τις δυνάμεις τους, και με τη βοήθεια της ‘War Dog’ Νάκια και του Έβερετ Ρος να χαράξουν ένα νέο μονοπάτι για το βασίλειο της Γουακάντα.",
+      "Year": "2022",
+      "Genre": "Δράσης, Επιστημονικής Φαντασίας",
+      "Duration": "2 ωρ. 41 λεπ.",
+      "isUnlocked": true
+    },
+    {
+      "Title": "Πενήντα αποχρώσεις του γκρι",
+      "ImageBack": "https://m.media-amazon.com/images/M/MV5BYjI3YTM2YzgtMzMzZS00OTVmLTlhY2MtZjdkMWIzNjFiYzgzXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+      "ImageMain": "https://www.inkefalonia.gr/media/k2/items/cache/d2c1974d12ef0acf65cb105aea43ae77_XL.jpg?t=20180320_101455",
+      "Video": "https://www.mediafire.com/file/46cvr2knmcwpz3a/video.mp4/file",
+      "Description": "Όταν η φοιτήτρια λογοτεχνίας Αναστάζια Στιλ πηγαίνει να πάρει συνέντευξη από τον πλούσιο Κρίστιαν Γκρέι, ως χάρη για τη συγκάτοικο της, Κέιτ, δεν περίμενε να δει ένα τόσο όμορφο, ευφυή και ταυτόχρονα τρομακτικό άντρα. Η αθώα «Άνα» αρχίζει να συνειδητοποιεί ότι τον ποθεί και παρά την αντίθετη του συμβουλή, νιώθει απόγνωση στο να βρεθεί κοντά του. Μη μπορώντας να αντισταθεί στην ομορφιά και το ελεύθερο της πνεύμα, ο Γκρέι δεν προβάλει άλλες αντιστάσεις, αλλά θέλει να γίνει με τους δικούς του όρους.",
+      "Year": "2015",
+      "Genre": "Αισθηματική, Ερωτική",
+      "Duration": "2 ωρ. 05 λεπ.",
+      "isUnlocked": true
+    },
+    {
       "Title": "The Social Dilemma",
       "ImageBack": "https://m.media-amazon.com/images/M/MV5BYjI3YTM2YzgtMzMzZS00OTVmLTlhY2MtZjdkMWIzNjFiYzgzXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
       "ImageMain": "https://upload.wikimedia.org/wikipedia/en/2/27/Social_dilemma_xlg.jpg",
