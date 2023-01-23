@@ -1,6 +1,72 @@
 {
   "Movies": [
     {
+      "Title": "Breaking Αnd Entering",
+      "ImageBack": "https://m.media-amazon.com/images/M/MV5BNDEzMTE5MTQzM15BMl5BanBnXkFtZTYwMzM0NzI3._V1_.jpg",
+      "ImageMain": "https://m.media-amazon.com/images/M/MV5BMTI3NzM3NDU4M15BMl5BanBnXkFtZTcwNjYzODgzMQ@@._V1_.jpg",
+      "Video": "https://www.mediafire.com/file/b0m14bxiwvj6dfc/video.mp4/file",
+      "Description": "Ο Γουίλ διατηρεί αρχιτεκτονικό γραφείο σε μία από τις πιο ζωντανές αλλά και υποβαθμισμένες γειτονιές του Λονδίνου. Η επαγγελματική του ζωή βρίσκεται σε τέλμα, σε πλήρη αντιστοιχία δηλαδή με την προσωπική του, που δεν θα την έλεγες και την πιο γεμάτη... Αν όμως ο Γουίλ έχει πιάσει... πάτο, δεν του μένει παρά να ξανανεβεί στην επιφάνεια: μία σειρά από διαρρήξεις στο γραφείο του και η έρευνα που θα κάνει τον φέρνουν αντιμέτωπο με τις βαθύτερες αλήθειες των άλλων και του εαυτού του. Γιατί, καμιά φορά, για να σου ανοιχτεί ένας άνθρωπος πρέπει πρώτα να τον σπάσεις...",
+      "Year": "2006",
+      "Genre": "Έγκλημα, Δράμα",
+      "Duration": "2ώρ. 00λ.",
+      "isUnlocked": true
+    },
+    {
+      "Title": "Red Dot",
+      "ImageBack": "https://www.heavenofhorror.com/wp-content/uploads/2021/02/Red-Dot-Netflix-Review.jpg",
+      "ImageMain": "https://m.media-amazon.com/images/M/MV5BYzhhN2U5NWQtNDA2Yi00ZDc5LWFlMDMtYjRkZmU5NGM5MzA4XkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_.jpg",
+      "Video": "https://www.mediafire.com/file/wumi41m7zx0zvbs/video.mp4/file",
+      "Description": "Ο Λέοναρντ Μπέρλινγκ, ένας δεξιοτέχνης βρετανός ράφτης που βρέθηκε στο Σικάγο, διευθύνει ένα κατάστημα για πελάτες που μπορούν να αντέξουν οικονομικά τα ρούχα του… δηλαδή τους γκάνγκστερ. Μια νύχτα, δύο δολοφόνοι θα βρεθούν στην πόρτα του, ζητώντας μια χάρη, και ο Λέοναρντ θα βρεθεί μπλεγμένος σε ένα θανατηφόρο παιχνίδι εξαπάτησης και δολοφονίας.",
+      "Year": "2021",
+      "Genre": "Θρίλερ",
+      "Duration": "1ώ 26λ",
+      "isUnlocked": true
+    },
+    {
+      "Title": "Darkest Hour",
+      "ImageBack": "https://s3.amazonaws.com/static.rogerebert.com/uploads/review/primary_image/reviews/darkest-hour-2017/Darkest-Hour-2017.jpg",
+      "ImageMain": "https://resizing.flixster.com/Ac6_ySgpLGDhqrBSVYLEbHYBLEw=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzFlNTVmMWNjLTAzZWUtNDE3Zi1iODFhLTM5ZmRkZGJiNjAxMS53ZWJw",
+      "Video": "https://www.mediafire.com/file/p0xomrxds00snc1/video.mp4/file",
+      "Description": "Μόλις κάποιες ημέρες αφότου γίνεται πρωθυπουργός της Μεγάλης Βρετανίας, ο Ουίνστον Τσόρτσιλ έρχεται αντιμέτωπος με μια από τις πλέον πολυτάραχες και καθοριστικές δοκιμασίες: να εξετάσει μια συνθήκη ειρήνης με τη ναζιστική Γερμανία ή να ακολουθήσει αυτό που του λένε τα ιδεώδη του περί ελευθερίας της χώρας του. Καθώς οι ασταμάτητες ναζιστικές δυνάμεις καλπάζουν στη Δυτική Ευρώπη και η απειλή για εισβολή είναι άμεση, μαζί με έναν απροετοίμαστο λαό, έναν σκεπτικιστή βασιλιά και το ίδιο του το κόμμα να συνωμοτεί εναντίον του, ο Τσόρτσιλ ανθίσταται στην πιο σκοτεινή του στιγμή, αναζωπυρώνει το έθνος και προσπαθεί να αλλάξει τον ρου της ιστορίας.",
+      "Year": "2017",
+      "Genre": "Δραματική",
+      "Duration": "2 ωρ. 05 λεπ.",
+      "isUnlocked": true
+    },
+    {
+      "Title": "The Trial of the Chicago 7",
+      "ImageBack": "https://esquire.com.gr/Content/ImagesDatabase/fb/1200x630/crop/both/92/924740a5240241b0b05385dcd425662a.jpeg",
+      "ImageMain": "https://www.athinorama.gr/lmnts/events/cinema/10070003/Poster.jpg",
+      "Video": "https://www.mediafire.com/file/w2ok0t6c5qngs37/video.mp4/file",
+      "Description": "Ο Λέοναρντ Μπέρλινγκ, ένας δεξιοτέχνης βρετανός ράφτης που βρέθηκε στο Σικάγο, διευθύνει ένα κατάστημα για πελάτες που μπορούν να αντέξουν οικονομικά τα ρούχα του… δηλαδή τους γκάνγκστερ. Μια νύχτα, δύο δολοφόνοι θα βρεθούν στην πόρτα του, ζητώντας μια χάρη, και ο Λέοναρντ θα βρεθεί μπλεγμένος σε ένα θανατηφόρο παιχνίδι εξαπάτησης και δολοφονίας.",
+      "Year": "2020",
+      "Genre": "Δραματική, Ιστορική",
+      "Duration": "2 ωρ. 09 λεπ.",
+      "isUnlocked": true
+    },
+    {
+      "Title": "Sublet",
+      "ImageBack": "https://m.media-amazon.com/images/M/MV5BOTUyNjc4ZTktZjRjMS00MGRiLTkxODUtZDgzZThmZDE1NjMxXkEyXkFqcGdeQXVyOTM5NzYzNTU@._V1_.jpg",
+      "ImageMain": "https://m.media-amazon.com/images/M/MV5BNGQyYjRkYTQtNzZiNy00MDYyLWJiNzEtYjQxNDZmZWI2NTRkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+      "Video": "https://www.mediafire.com/file/u9ul2bi1m36pfo6/video.mp4/file",
+      "Description": "Ένας αρθρογράφος των New York Times έρχεται στο Τελ Αβίβ μετά από μια τραγωδία. Η ενέργεια της πόλης και η σχέση του με έναν νεότερο τον αναζογονεί.",
+      "Year": "2020",
+      "Genre": "Κωμωδία, Δράμα",
+      "Duration": "1 ωρ. 27 λεπ.",
+      "isUnlocked": true
+    },
+    {
+      "Title": "Outfit",
+      "ImageBack": "https://m.media-amazon.com/images/M/MV5BMzhhMzRjNTQtNWE1YS00ZjZjLWEzNjctMTQ1OWExZjhiNjI0XkEyXkFqcGdeQXZ3ZXNsZXk@._V1_.jpg",
+      "ImageMain": "https://www.themoviedb.org/t/p/w500/lZa5EB6PVJBT5mxhgZS5ftqdAm6.jpg",
+      "Video": "https://www.mediafire.com/file/pddf3l0q8bieyx5/video.mp4/file",
+      "Description": "Ο Λέοναρντ Μπέρλινγκ, ένας δεξιοτέχνης βρετανός ράφτης που βρέθηκε στο Σικάγο, διευθύνει ένα κατάστημα για πελάτες που μπορούν να αντέξουν οικονομικά τα ρούχα του… δηλαδή τους γκάνγκστερ. Μια νύχτα, δύο δολοφόνοι θα βρεθούν στην πόρτα του, ζητώντας μια χάρη, και ο Λέοναρντ θα βρεθεί μπλεγμένος σε ένα θανατηφόρο παιχνίδι εξαπάτησης και δολοφονίας.",
+      "Year": "2022",
+      "Genre": "Αστυνομική, Γκανγκστερική",
+      "Duration": "1 ωρ. 45 λεπ.",
+      "isUnlocked": true
+    },
+    {
       "Title": "Bullet Train",
       "ImageBack": "https://ca-times.brightspotcdn.com/dims4/default/575bcf7/2147483647/strip/true/crop/6000x4000+0+0/resize/1486x991!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe5%2Ff2%2F93a9050a4507912a219147c7921a%2Fbullet-train.jpg",
       "ImageMain": "https://upload.wikimedia.org/wikipedia/en/1/13/Bullet_Train_%28poster%29.jpeg",
