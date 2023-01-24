@@ -11,6 +11,7 @@
       "Duration": "2ώρ. 00λ.",
       "isUnlocked": true,
       "fetchVideo": true,
+      "Type": "media",
       "StartString": "window.location.href = '",
       "EndString": "'; },",
       "Start": 24,
