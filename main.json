@@ -13,9 +13,9 @@
       "fetchVideo": true,
       "Type": "media",
       "StartString": "window.location.href = '",
-      "EndString": "'; },",
-      "Start": 24,
-      "End": 0
+      "EndString": ";",
+      "Start": 25,
+      "End": 1
     },
     {
       "Title": "Red Dot",
