@@ -12,10 +12,9 @@
       "isUnlocked": true,
       "fetchVideo": true,
       "Type": "media",
-      "StartString": "<script type=\"text/javascript\">
-     setTimeout(function () { window.location.href = '",
+      "StartString": "https://download",
       "EndString": ";",
-      "Start": 49,
+      "Start": 0,
       "End": 1
     },
     {
