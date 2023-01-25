@@ -27,7 +27,14 @@
       "Year": "2021",
       "Genre": "Θρίλερ",
       "Duration": "1ώ 26λ",
-      "isUnlocked": true
+      "isUnlocked": true,
+      "fetchVideo": true,
+      "beforeEnd": "0",
+      "Type": "media",
+      "StartString": "https://download",
+      "EndString": "\"",
+      "Start": 0,
+      "End": 0
     },
     {
       "Title": "Darkest Hour",
@@ -38,7 +45,14 @@
       "Year": "2017",
       "Genre": "Δραματική",
       "Duration": "2 ωρ. 05 λεπ.",
-      "isUnlocked": true
+      "isUnlocked": true,
+      "fetchVideo": true,
+      "beforeEnd": "0",
+      "Type": "media",
+      "StartString": "https://download",
+      "EndString": "\"",
+      "Start": 0,
+      "End": 0
     },
     {
       "Title": "The Trial of the Chicago 7",
@@ -49,7 +63,14 @@
       "Year": "2020",
       "Genre": "Δραματική, Ιστορική",
       "Duration": "2 ωρ. 09 λεπ.",
-      "isUnlocked": true
+      "isUnlocked": true,
+      "fetchVideo": true,
+      "beforeEnd": "0",
+      "Type": "media",
+      "StartString": "https://download",
+      "EndString": "\"",
+      "Start": 0,
+      "End": 0
     },
     {
       "Title": "Sublet",
@@ -60,7 +81,14 @@
       "Year": "2020",
       "Genre": "Κωμωδία, Δράμα",
       "Duration": "1 ωρ. 27 λεπ.",
-      "isUnlocked": true
+      "isUnlocked": true,
+      "fetchVideo": true,
+      "beforeEnd": "0",
+      "Type": "media",
+      "StartString": "https://download",
+      "EndString": "\"",
+      "Start": 0,
+      "End": 0
     },
     {
       "Title": "Outfit",
@@ -71,7 +99,14 @@
       "Year": "2022",
       "Genre": "Αστυνομική, Γκανγκστερική",
       "Duration": "1 ωρ. 45 λεπ.",
-      "isUnlocked": true
+      "isUnlocked": true,
+      "fetchVideo": true,
+      "beforeEnd": "0",
+      "Type": "media",
+      "StartString": "https://download",
+      "EndString": "\"",
+      "Start": 0,
+      "End": 0
     },
     {
       "Title": "Bullet Train",
@@ -82,7 +117,14 @@
       "Year": "2022",
       "Genre": "Αστυνομική, Δράσης",
       "Duration": "2 ωρ. 06 λεπ.",
-      "isUnlocked": true
+      "isUnlocked": true,
+      "fetchVideo": true,
+      "beforeEnd": "0",
+      "Type": "media",
+      "StartString": "https://download",
+      "EndString": "\"",
+      "Start": 0,
+      "End": 0
     },
     {
       "Title": "Before Sunset",
@@ -93,7 +135,14 @@
       "Year": "2004",
       "Genre": "Αισθηματική, Δραματική",
       "Duration": "1 ωρ. 20 λεπ.",
-      "isUnlocked": true
+      "isUnlocked": true,
+      "fetchVideo": true,
+      "beforeEnd": "0",
+      "Type": "media",
+      "StartString": "https://download",
+      "EndString": "\"",
+      "Start": 0,
+      "End": 0
     },
     {
       "Title": "Halloween Ends",
@@ -104,7 +153,14 @@
       "Year": "2022",
       "Genre": "Θρίλερ, Τρόμου",
       "Duration": "1 ωρ. 51 λεπ.",
-      "isUnlocked": true
+      "isUnlocked": true,
+      "fetchVideo": true,
+      "beforeEnd": "0",
+      "Type": "media",
+      "StartString": "https://download",
+      "EndString": "\"",
+      "Start": 0,
+      "End": 0
     },
     {
       "Title": "Spider-Man: No Way Home",
@@ -115,7 +171,14 @@
       "Year": "2021",
       "Genre": "Δράσης, Επιστημονικής Φαντασίας",
       "Duration": "2 ωρ. 28 λεπ.",
-      "isUnlocked": true
+      "isUnlocked": true,
+      "fetchVideo": true,
+      "beforeEnd": "0",
+      "Type": "media",
+      "StartString": "https://download",
+      "EndString": "\"",
+      "Start": 0,
+      "End": 0
     },
     {
       "Title": "Black Panther: Wakanda Forever",
@@ -126,7 +189,14 @@
       "Year": "2022",
       "Genre": "Δράσης, Επιστημονικής Φαντασίας",
       "Duration": "2 ωρ. 41 λεπ.",
-      "isUnlocked": true
+      "isUnlocked": true,
+      "fetchVideo": true,
+      "beforeEnd": "0",
+      "Type": "media",
+      "StartString": "https://download",
+      "EndString": "\"",
+      "Start": 0,
+      "End": 0
     },
     {
       "Title": "Πενήντα αποχρώσεις του γκρι",
@@ -137,7 +207,14 @@
       "Year": "2015",
       "Genre": "Αισθηματική, Ερωτική",
       "Duration": "2 ωρ. 05 λεπ.",
-      "isUnlocked": true
+      "isUnlocked": true,
+      "fetchVideo": true,
+      "beforeEnd": "0",
+      "Type": "media",
+      "StartString": "https://download",
+      "EndString": "\"",
+      "Start": 0,
+      "End": 0
     },
     {
       "Title": "The Social Dilemma",
@@ -148,7 +225,14 @@
       "Year": "2020",
       "Genre": "Ντοκιμαντέρ",
       "Duration": "1 ωρ. 34 λεπ.",
-      "isUnlocked": true
+      "isUnlocked": true,
+      "fetchVideo": true,
+      "beforeEnd": "0",
+      "Type": "media",
+      "StartString": "https://download",
+      "EndString": "\"",
+      "Start": 0,
+      "End": 0
     },
     {
       "Title": "Enola Holmes 2",
@@ -159,7 +243,14 @@
       "Year": "2022",
       "Genre": "Μυστηρίου, Περιπέτεια",
       "Duration": "2 ωρ. 09 λεπ.",
-      "isUnlocked": true
+      "isUnlocked": true,
+      "fetchVideo": true,
+      "beforeEnd": "0",
+      "Type": "media",
+      "StartString": "https://download",
+      "EndString": "\"",
+      "Start": 0,
+      "End": 0
     },
     {
       "Title": "Hustle",
@@ -170,7 +261,14 @@
       "Year": "2022",
       "Genre": "Αθλητική, Δραμεντί",
       "Duration": "1 ωρ. 57 λεπ.",
-      "isUnlocked": true
+      "isUnlocked": true,
+      "fetchVideo": true,
+      "beforeEnd": "0",
+      "Type": "media",
+      "StartString": "https://download",
+      "EndString": "\"",
+      "Start": 0,
+      "End": 0
     },
     {
       "Title": "Knocked Up",
@@ -181,7 +279,14 @@
       "Year": "2007",
       "Genre": "Αισθηματική, Κωμωδία",
       "Duration": "2 ωρ. 09 λεπ.",
-      "isUnlocked": true
+      "isUnlocked": true,
+      "fetchVideo": true,
+      "beforeEnd": "0",
+      "Type": "media",
+      "StartString": "https://download",
+      "EndString": "\"",
+      "Start": 0,
+      "End": 0
     },
     {
       "Title": "Top Gun: Maverick",
@@ -192,7 +297,14 @@
       "Year": "2022",
       "Genre": "Δράμα, Δράση",
       "Duration": "2 ωρ. 11 λεπ.",
-      "isUnlocked": true
+      "isUnlocked": true,
+      "fetchVideo": true,
+      "beforeEnd": "0",
+      "Type": "media",
+      "StartString": "https://download",
+      "EndString": "\"",
+      "Start": 0,
+      "End": 0
     },
     {
       "Title": "The Batman",
@@ -203,7 +315,14 @@
       "Year": "2022",
       "Genre": "Αστυνομική, Δράσης",
       "Duration": "2 ωρ. 55 λεπ.",
-      "isUnlocked": true
+      "isUnlocked": true,
+      "fetchVideo": true,
+      "beforeEnd": "0",
+      "Type": "media",
+      "StartString": "https://download",
+      "EndString": "\"",
+      "Start": 0,
+      "End": 0
     },
     {
       "Title": "Everything Everywhere All at Once",
@@ -214,7 +333,14 @@
       "Year": "2022",
       "Genre": "Δράση, Επιστημονική Φαντασία",
       "Duration": "2 ωρ. 19 λεπ.",
-      "isUnlocked": true
+      "isUnlocked": true,
+      "fetchVideo": true,
+      "beforeEnd": "0",
+      "Type": "media",
+      "StartString": "https://download",
+      "EndString": "\"",
+      "Start": 0,
+      "End": 0
     },
     {
       "Title": "Jumanji: The Next Level",
@@ -241,7 +367,14 @@
       "Year": "2014",
       "Genre": "Επιστημονική φαντασία",
       "Duration": "2ώ 49λ",
-      "isUnlocked": true
+      "isUnlocked": true,
+      "fetchVideo": true,
+      "beforeEnd": "0",
+      "Type": "media",
+      "StartString": "https://download",
+      "EndString": "\"",
+      "Start": 0,
+      "End": 0
     },
     {
       "Title": "Dog Gone",
@@ -252,7 +385,14 @@
       "Year": "2023",
       "Genre": "Οικογένεια, Περιπέτεια",
       "Duration": "1ώ 35λ",
-      "isUnlocked": true
+      "isUnlocked": true,
+      "fetchVideo": true,
+      "beforeEnd": "0",
+      "Type": "media",
+      "StartString": "https://download",
+      "EndString": "\"",
+      "Start": 0,
+      "End": 0
     },
     {
       "Title": "Glass Onion: A Knives Out Mystery",
@@ -263,7 +403,14 @@
       "Year": "2022",
       "Genre": "Μαύρη Κωμωδία, Μυστηρίου",
       "Duration": "2 ωρ. 19 λεπ.",
-      "isUnlocked": true
+      "isUnlocked": true,
+      "fetchVideo": true,
+      "beforeEnd": "0",
+      "Type": "media",
+      "StartString": "https://download",
+      "EndString": "\"",
+      "Start": 0,
+      "End": 0
     },
     {
       "Title": "The Pale Blue Eye",
@@ -274,7 +421,14 @@
       "Year": "2022",
       "Genre": "Αστυνομική, Εποχής",
       "Duration": "2 ωρ. 08 λεπ.",
-      "isUnlocked": true
+      "isUnlocked": true,
+      "fetchVideo": true,
+      "beforeEnd": "0",
+      "Type": "media",
+      "StartString": "https://download",
+      "EndString": "\"",
+      "Start": 0,
+      "End": 0
     },
     {
       "Title": "The Happening",
@@ -285,7 +439,14 @@
       "Year": "2022",
       "Genre": "Θρίλερ, Τρόμου",
       "Duration": "1 ώ. 31 λ",
-      "isUnlocked": true
+      "isUnlocked": true,
+      "fetchVideo": true,
+      "beforeEnd": "0",
+      "Type": "media",
+      "StartString": "https://download",
+      "EndString": "\"",
+      "Start": 0,
+      "End": 0
     },
     {
       "Title": "The Menu",
@@ -296,7 +457,14 @@
       "Year": "2022",
       "Genre": "Θρίλερ, Τρόμου",
       "Duration": "1 ωρ. 46 λεπ.",
-      "isUnlocked": true
+      "isUnlocked": true,
+      "fetchVideo": true,
+      "beforeEnd": "0",
+      "Type": "media",
+      "StartString": "https://download",
+      "EndString": "\"",
+      "Start": 0,
+      "End": 0
     },
     {
       "Title": "Extraction",
@@ -307,7 +475,14 @@
       "Year": "2020",
       "Genre": "Δράση, Θρίλερ",
       "Duration": "1 ωρ. 56 λεπ.",
-      "isUnlocked": true
+      "isUnlocked": true,
+      "fetchVideo": true,
+      "beforeEnd": "0",
+      "Type": "media",
+      "StartString": "https://download",
+      "EndString": "\"",
+      "Start": 0,
+      "End": 0
     },
     {
       "Title": "Fire of Love",
@@ -318,7 +493,14 @@
       "Year": "2022",
       "Genre": "Αισθηματική, Βιογραφία",
       "Duration": "1 ωρ. 33 λεπ.",
-      "isUnlocked": true
+      "isUnlocked": true,
+      "fetchVideo": true,
+      "beforeEnd": "0",
+      "Type": "media",
+      "StartString": "https://download",
+      "EndString": "\"",
+      "Start": 0,
+      "End": 0
     },
     {
       "Title": "Im Westen Nichts Neues",
@@ -329,7 +511,14 @@
       "Year": "2022",
       "Genre": "Δράση, Πόλεμος",
       "Duration": "2 ωρ. 27 λεπ.",
-      "isUnlocked": true
+      "isUnlocked": true,
+      "fetchVideo": true,
+      "beforeEnd": "0",
+      "Type": "media",
+      "StartString": "https://download",
+      "EndString": "\"",
+      "Start": 0,
+      "End": 0
     },
     {
       "Title": "It: Chapter Two",
@@ -340,7 +529,14 @@
       "Year": "2022",
       "Genre": "Τρόμου, Φαντασίας",
       "Duration": "2 ωρ. 49 λεπ.",
-      "isUnlocked": true
+      "isUnlocked": true,
+      "fetchVideo": true,
+      "beforeEnd": "0",
+      "Type": "media",
+      "StartString": "https://download",
+      "EndString": "\"",
+      "Start": 0,
+      "End": 0
     }
   ]
 }
