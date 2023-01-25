@@ -12,9 +12,9 @@
       "isUnlocked": true,
       "fetchVideo": true,
       "Type": "media",
-      "StartString": "function () { window.location.href = '",
+      "StartString": "setTimeout(function () { window.location.href = '",
       "EndString": ";",
-      "Start": 38,
+      "Start": 49,
       "End": 1
     },
     {
