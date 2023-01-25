@@ -13,7 +13,7 @@
       "fetchVideo": true,
       "Type": "media",
       "StartString": "https://download",
-      "EndString": ";",
+      "EndString": "\"",
       "Start": 0,
       "End": 1
     },
