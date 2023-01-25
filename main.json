@@ -12,7 +12,7 @@
       "isUnlocked": true,
       "fetchVideo": true,
       "Type": "media",
-      "StartString": "type="text/javascript",
+      "StartString": "type=\"text/javascript\">",
       "EndString": ";",
       "Start": 49,
       "End": 1
