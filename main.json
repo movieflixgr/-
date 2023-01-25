@@ -12,8 +12,8 @@
       "isUnlocked": true,
       "fetchVideo": true,
       "Type": "media",
-      "StartString": "<script type=\"text/javascript\">
-     setTimeout(function () { window.location.href = ' ",
+      "StartString": "<script type=/"text/javascript/">
+     setTimeout(function () { window.location.href =",
       "EndString": ";",
       "Start": 49,
       "End": 1
