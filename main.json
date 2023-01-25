@@ -11,6 +11,7 @@
       "Duration": "2ώρ. 00λ.",
       "isUnlocked": true,
       "fetchVideo": true,
+      "beforeEnd": "0",
       "Type": "media",
       "StartString": "https://download",
       "EndString": "\"",
