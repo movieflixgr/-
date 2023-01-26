@@ -1,6 +1,24 @@
 {
   "Movies": [
     {
+      "Title": "The Wolf of Wall Street",
+      "ImageBack": "https://static01.nyt.com/images/2013/12/22/movies/20131222-WOLF-slide-3LE4/20131222-WOLF-slide-3LE4-superJumbo.jpg",
+      "ImageMain": "https://m.media-amazon.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1_.jpg",
+      "Video": "https://www.mediafire.com/file/8t2jf5lrw3sp05z/video.mp4/file",
+      "Description": "1987. Ο Τζόρνταν Μπέλφορντ ήταν μια άρρωστη διάνοια, που με το παρατσούκλι «ο λύκος της Γουολ Στριτ» πετύχαινε σε κάθε απάτη που έβαζε μπρος. Ένας ενεχυροδανειστής που δεν μπορούσε να κρατήσει όρθια την οικογένεια του, αλλά αντιπροσώπευε το αμερικανικό όνειρο τη χρυσή εποχή του χρηματιστηρίου. Όταν, όμως, πήγαν να τον εμπλέξουν σε μια τεράστια απάτη με ασφάλειες, στην οποία εμπλέκονταν και η μαφία, η άρνηση του να συνεργαστεί με τις αρχές, τον οδήγησε σε είκοσι μήνες φυλάκισης.",
+      "Year": "2013",
+      "Genre": "Κωμωδία, Σάτιρα",
+      "Duration": "3ώρ. 00λ.",
+      "isUnlocked": true,
+      "fetchVideo": true,
+      "beforeEnd": "5",
+      "Type": "media",
+      "StartString": "https://download",
+      "EndString": "\"",
+      "Start": 0,
+      "End": 0
+    },
+    {
       "Title": "Breaking Αnd Entering",
       "ImageBack": "https://m.media-amazon.com/images/M/MV5BNDEzMTE5MTQzM15BMl5BanBnXkFtZTYwMzM0NzI3._V1_.jpg",
       "ImageMain": "https://m.media-amazon.com/images/M/MV5BMTI3NzM3NDU4M15BMl5BanBnXkFtZTcwNjYzODgzMQ@@._V1_.jpg",
