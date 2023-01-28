@@ -16,7 +16,8 @@
       "StartString": "https://download",
       "EndString": "\"",
       "Start": 0,
-      "End": 0
+      "End": 0,
+      "Fetch": "MediaFire"
     },
     {
       "Title": "The Parademic",
