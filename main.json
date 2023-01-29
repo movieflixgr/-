@@ -35,7 +35,8 @@
       "StartString": "https://download",
       "EndString": "\"",
       "Start": 0,
-      "End": 0
+      "End": 0,
+      "Fetch": "MediaFire"
     },
     {
       "Title": "Troubled Waters",
@@ -53,7 +54,8 @@
       "StartString": "https://download",
       "EndString": "\"",
       "Start": 0,
-      "End": 0
+      "End": 0,
+      "Fetch": "MediaFire"
     },
     {
       "Title": "The Stranger",
@@ -71,7 +73,8 @@
       "StartString": "https://download",
       "EndString": "\"",
       "Start": 0,
-      "End": 0
+      "End": 0,
+      "Fetch": "MediaFire"
     },
     {
       "Title": "Bloodsport",
@@ -89,7 +92,8 @@
       "StartString": "https://download",
       "EndString": "\"",
       "Start": 0,
-      "End": 0
+      "End": 0,
+      "Fetch": "MediaFire"
     },
     {
       "Title": "Η Οφθαλμαπάτη",
@@ -107,7 +111,8 @@
       "StartString": "https://download",
       "EndString": "\"",
       "Start": 0,
-      "End": 0
+      "End": 0,
+      "Fetch": "MediaFire"
     },
     {
       "Title": "The Wolf of Wall Street",
@@ -125,7 +130,8 @@
       "StartString": "https://download",
       "EndString": "\"",
       "Start": 0,
-      "End": 0
+      "End": 0,
+      "Fetch": "MediaFire"
     },
     {
       "Title": "Breaking Αnd Entering",
@@ -143,7 +149,8 @@
       "StartString": "https://download",
       "EndString": "\"",
       "Start": 0,
-      "End": 0
+      "End": 0,
+      "Fetch": "MediaFire"
     },
     {
       "Title": "Red Dot",
@@ -161,7 +168,8 @@
       "StartString": "https://download",
       "EndString": "\"",
       "Start": 0,
-      "End": 0
+      "End": 0,
+      "Fetch": "MediaFire"
     },
     {
       "Title": "Darkest Hour",
@@ -179,7 +187,8 @@
       "StartString": "https://download",
       "EndString": "\"",
       "Start": 0,
-      "End": 0
+      "End": 0,
+      "Fetch": "MediaFire"
     },
     {
       "Title": "The Trial of the Chicago 7",
@@ -197,7 +206,8 @@
       "StartString": "https://download",
       "EndString": "\"",
       "Start": 0,
-      "End": 0
+      "End": 0,
+      "Fetch": "MediaFire"
     },
     {
       "Title": "Sublet",
@@ -215,7 +225,8 @@
       "StartString": "https://download",
       "EndString": "\"",
       "Start": 0,
-      "End": 0
+      "End": 0,
+      "Fetch": "MediaFire"
     },
     {
       "Title": "Outfit",
@@ -233,7 +244,8 @@
       "StartString": "https://download",
       "EndString": "\"",
       "Start": 0,
-      "End": 0
+      "End": 0,
+      "Fetch": "MediaFire"
     },
     {
       "Title": "Bullet Train",
@@ -251,7 +263,8 @@
       "StartString": "https://download",
       "EndString": "\"",
       "Start": 0,
-      "End": 0
+      "End": 0,
+      "Fetch": "MediaFire"
     },
     {
       "Title": "Before Sunset",
@@ -269,7 +282,8 @@
       "StartString": "https://download",
       "EndString": "\"",
       "Start": 0,
-      "End": 0
+      "End": 0,
+      "Fetch": "MediaFire"
     },
     {
       "Title": "Halloween Ends",
@@ -287,7 +301,8 @@
       "StartString": "https://download",
       "EndString": "\"",
       "Start": 0,
-      "End": 0
+      "End": 0,
+      "Fetch": "MediaFire"
     },
     {
       "Title": "Spider-Man: No Way Home",
@@ -305,7 +320,8 @@
       "StartString": "https://download",
       "EndString": "\"",
       "Start": 0,
-      "End": 0
+      "End": 0,
+      "Fetch": "MediaFire"
     },
     {
       "Title": "Black Panther: Wakanda Forever",
@@ -323,7 +339,8 @@
       "StartString": "https://download",
       "EndString": "\"",
       "Start": 0,
-      "End": 0
+      "End": 0,
+      "Fetch": "MediaFire"
     },
     {
       "Title": "Πενήντα αποχρώσεις του γκρι",
@@ -341,7 +358,8 @@
       "StartString": "https://download",
       "EndString": "\"",
       "Start": 0,
-      "End": 0
+      "End": 0,
+      "Fetch": "MediaFire"
     },
     {
       "Title": "The Social Dilemma",
@@ -359,7 +377,8 @@
       "StartString": "https://download",
       "EndString": "\"",
       "Start": 0,
-      "End": 0
+      "End": 0,
+      "Fetch": "MediaFire"
     },
     {
       "Title": "Enola Holmes 2",
@@ -377,7 +396,8 @@
       "StartString": "https://download",
       "EndString": "\"",
       "Start": 0,
-      "End": 0
+      "End": 0,
+      "Fetch": "MediaFire"
     },
     {
       "Title": "Hustle",
@@ -395,7 +415,8 @@
       "StartString": "https://download",
       "EndString": "\"",
       "Start": 0,
-      "End": 0
+      "End": 0,
+      "Fetch": "MediaFire"
     },
     {
       "Title": "Knocked Up",
@@ -413,7 +434,8 @@
       "StartString": "https://download",
       "EndString": "\"",
       "Start": 0,
-      "End": 0
+      "End": 0,
+      "Fetch": "MediaFire"
     },
     {
       "Title": "Top Gun: Maverick",
@@ -431,7 +453,8 @@
       "StartString": "https://download",
       "EndString": "\"",
       "Start": 0,
-      "End": 0
+      "End": 0,
+      "Fetch": "MediaFire"
     },
     {
       "Title": "The Batman",
@@ -449,7 +472,8 @@
       "StartString": "https://download",
       "EndString": "\"",
       "Start": 0,
-      "End": 0
+      "End": 0,
+      "Fetch": "MediaFire"
     },
     {
       "Title": "Everything Everywhere All at Once",
@@ -467,7 +491,8 @@
       "StartString": "https://download",
       "EndString": "\"",
       "Start": 0,
-      "End": 0
+      "End": 0,
+      "Fetch": "MediaFire"
     },
     {
       "Title": "Jumanji: The Next Level",
@@ -483,7 +508,8 @@
       "StartString": "'hls': '",
       "EndString": "',",
       "Start": "8",
-      "End": "0"
+      "End": "0",
+      "Fetch": "MediaFire"
     },
     {
       "Title": "Interstellar",
@@ -501,7 +527,8 @@
       "StartString": "https://download",
       "EndString": "\"",
       "Start": 0,
-      "End": 0
+      "End": 0,
+      "Fetch": "MediaFire"
     },
     {
       "Title": "Dog Gone",
@@ -519,7 +546,8 @@
       "StartString": "https://download",
       "EndString": "\"",
       "Start": 0,
-      "End": 0
+      "End": 0,
+      "Fetch": "MediaFire"
     },
     {
       "Title": "Glass Onion: A Knives Out Mystery",
@@ -537,7 +565,8 @@
       "StartString": "https://download",
       "EndString": "\"",
       "Start": 0,
-      "End": 0
+      "End": 0,
+      "Fetch": "MediaFire"
     },
     {
       "Title": "The Pale Blue Eye",
@@ -555,7 +584,8 @@
       "StartString": "https://download",
       "EndString": "\"",
       "Start": 0,
-      "End": 0
+      "End": 0,
+      "Fetch": "MediaFire"
     },
     {
       "Title": "The Happening",
@@ -573,7 +603,8 @@
       "StartString": "https://download",
       "EndString": "\"",
       "Start": 0,
-      "End": 0
+      "End": 0,
+      "Fetch": "MediaFire"
     },
     {
       "Title": "The Menu",
@@ -591,7 +622,8 @@
       "StartString": "https://download",
       "EndString": "\"",
       "Start": 0,
-      "End": 0
+      "End": 0,
+      "Fetch": "MediaFire"
     },
     {
       "Title": "Extraction",
@@ -609,7 +641,8 @@
       "StartString": "https://download",
       "EndString": "\"",
       "Start": 0,
-      "End": 0
+      "End": 0,
+      "Fetch": "MediaFire"
     },
     {
       "Title": "Fire of Love",
@@ -627,7 +660,8 @@
       "StartString": "https://download",
       "EndString": "\"",
       "Start": 0,
-      "End": 0
+      "End": 0,
+      "Fetch": "MediaFire"
     },
     {
       "Title": "Im Westen Nichts Neues",
@@ -645,7 +679,8 @@
       "StartString": "https://download",
       "EndString": "\"",
       "Start": 0,
-      "End": 0
+      "End": 0,
+      "Fetch": "MediaFire"
     },
     {
       "Title": "It: Chapter Two",
@@ -663,7 +698,8 @@
       "StartString": "https://download",
       "EndString": "\"",
       "Start": 0,
-      "End": 0
+      "End": 0,
+      "Fetch": "MediaFire"
     }
   ]
 }
