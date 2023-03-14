@@ -39,25 +39,6 @@
       "Fetch": "MediaFire"
     },
     {
-      "Title": "The Grand Budapest Hotel",
-      "ImageBack": "https://images.adsttc.com/media/images/5318/9a36/c07a/806c/d900/0134/large_jpg/20140302-GRAND-slide-SOK2-superJumbo.jpg?1394121259",
-      "ImageMain": "https://m.media-amazon.com/images/M/MV5BMzM5NjUxOTEyMl5BMl5BanBnXkFtZTgwNjEyMDM0MDE@._V1_.jpg",
-      "Video": "https://www.mediafire.com/file_premium/ip5v9ze4qwo545w/video/file",
-      "Description": "Δεκαετία του 1920, μεσοπόλεμος. Ο θυρωρός του διάσημου ξενοδοχείου Grand Budapest αναπτύσσει φιλία με έναν νεαρό υπάλληλο, ο οποίος γίνεται ο προστατευόμενος του. Στο ξενοδοχείο θα λάβει χώρα η κλοπή ενός αμύθητης αξίας πίνακα της Αναγέννησης, η διαμάχη για μια οικογενειακή περιουσία και οι αρχικά αργές, αλλά έπειτα καλπάζουσες εξελίξεις που θα μεταμορφώσουν την Ευρώπη σε αυτή την τόσο κρίσιμη περίοδο της ιστορίας.",
-      "Year": "2014",
-      "Genre": "Εποχής, Κωμωδία",
-      "Duration": "1 ωρ. 39 λεπ.",
-      "isUnlocked": true,
-      "fetchVideo": true,
-      "beforeEnd": "5",
-      "Type": "media",
-      "StartString": "https://download",
-      "EndString": "\"",
-      "Start": 0,
-      "End": 0,
-      "Fetch": "MediaFire"
-    },
-    {
       "Title": "Under Τhe Amalfi Sun",
       "ImageBack": "https://decider.com/wp-content/uploads/2022/07/UNDER-THE-AMALFI-SUN-NETFLIX-REVIEW.jpg?quality=75&strip=all",
       "ImageMain": "https://m.media-amazon.com/images/M/MV5BMzZiYWFmYTctMjkyMy00ZDY4LTg3MDEtNTViOGVlYWU1OTQwXkEyXkFqcGdeQXVyMjAwNzczNTU@._V1_FMjpg_UX1000_.jpg",
