@@ -4,20 +4,20 @@
       "Title": "Murder Mystery 2",
       "ImageBack": "https://www.hollywoodreporter.com/wp-content/uploads/2023/03/MM2_20220217_08220_R3-H-2023.jpg?w=1296",
       "ImageMain": "https://m.media-amazon.com/images/M/MV5BMzkyMjU1ZjMtMDJlMS00M2YzLWJhZDQtYjFjZTUyMzI2MDViXkEyXkFqcGdeQXVyMzQyMDgzOTU@._V1_FMjpg_UX1000_.jpg",
-      "Video": "http://s1.gmtdb.co/video/movies/Murder.Mystery.2.2023.mp4?id=0",
+      "Video": "https://www.mediafire.com/file_premium/9wzfjt5e97m0gj0/video/file",
       "Description": "Τέσσερα χρόνια αφότου επιλύουν το πρώτο τους μυστήριο φόνου, ο Νικ και η Όντρεϊ Σπιτς είναι πλέον ντετέκτιβ πλήρους απασχόλησης. Ενώ παλεύουν να ξεκινήσουν το δικό τους γραφείο ιδιωτικών ερευνών, είναι καλεσμένοι να γιορτάσουν τον γάμο του φίλου τους του μαχαραγιά στο ιδιωτικό νησί του. Οι μπελάδες όμως ακολουθούν και πάλι τους Σπιτς, αφού μόλις αρχίζουν οι εορτασμοί, ο γαμπρός απάγεται για λύτρα. Κάθε λαμπερός καλεσμένος, συγγενής αλλά και η ίδια η νύφη γίνονται αμέσως ύποπτοι.",
       "Year": 2023,
       "Genre": "Αστυνομική, Δράσης",
       "Duration": "1 ωρ. 29 λεπ.",
       "isUnlocked": true,
-      "fetchVideo": false, 
+      "fetchVideo": true,
       "beforeEnd": "5",
       "Type": "media",
       "StartString": "https://download",
       "EndString": "\"",
       "Start": 0,
       "End": 0,
-      "Fetch": ""
+      "Fetch": "MediaFire"
     },
     {
       "Title": "Tetris",
@@ -29,14 +29,14 @@
       "Genre": "Βιογραφία, Δραματική",
       "Duration": "1 ωρ. 58 λεπ.",
       "isUnlocked": true,
-      "fetchVideo": false, 
+      "fetchVideo": true,
       "beforeEnd": "5",
       "Type": "media",
       "StartString": "https://download",
       "EndString": "\"",
       "Start": 0,
       "End": 0,
-      "Fetch": ""
+      "Fetch": "MediaFire"
     },
     {
       "Title": "Creed III",
@@ -48,14 +48,14 @@
       "Genre": "Έπος, Περιπέτεια",
       "Duration": "2 ωρ. 59 λεπ.",
       "isUnlocked": true,
-      "fetchVideo": false, 
+      "fetchVideo": true,
       "beforeEnd": "5",
       "Type": "media",
       "StartString": "https://download",
       "EndString": "\"",
       "Start": 0,
       "End": 0,
-      "Fetch": ""
+      "Fetch": "MediaFire"
     },
     {
       "Title": "The Lord of the Rings: The Two Towers",
