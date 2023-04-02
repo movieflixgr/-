@@ -1,23 +1,40 @@
 {
   "Movies": [
     {
-      "Title": "The Lord of the Rings: The Return of the King",
-      "ImageBack": "https://helios-i.mashable.com/imagery/articles/06P12IEExkGC55KMoYIY2Lh/hero-image.fill.size_1248x702.v1661907621.jpg",
-      "ImageMain": "https://static.wikia.nocookie.net/middle-earth-film-saga/images/9/9c/Rotk.jpg/revision/latest?cb=20160205204414",
-      "Video": "https://www.mediafire.com/file_premium/pc34dvm269kd6hk/video/file",
-      "Description": "Η αβάσταχτη διαδρομή του Φρόντο, του δαχτυλιδοκουβαλητή, και του αχώριστου φίλου του, Σαμ, συνεχίζεται. Οι δυο τους περιπλανώνται σε δύσβατα μονοπάτια υπό την καθοδήγηση του μοχθηρού Γκόλουμ, με σκοπό να φτάσουν στο Βουνό του Χαμού, όπου θα καταστρέψουν το Ένα Δαχτυλίδι. Το Γκόλουμ, αναδεικνύοντας και πάλι την κακιά φύση του, θα προδώσει τους δυο φίλους, οδηγώντας τους στη γιγαντιαία αράχνη Σέλομπ. Ο Φρόντο, που θα έρθει μια ανάσα από τον θάνατο, βρίσκεται πλέον στα χέρια των Ορκ, ενώ ο Σαμ, που τον νομίζει νεκρό, συνεχίζει μόνος του. Ενώ η Σκοτεινιά της Μόρντορ απλώνεται απειλητικά στη Μέση Γη, ο Άραγκορν αποκαλύπτεται ότι είναι ο χαμένος Βασιλιάς της Γκόντορ, και ταξιδεύει προς τη Μίνας Τίριθ, μαζί με όσους έχουν απομείνει από τη Συντροφιά, προκειμένου να υπερασπιστεί την αρχαία αυτή πόλη μέχρι θανάτου.",
-      "Year": "2003",
-      "Genre": "Έπος, Περιπέτεια",
-      "Duration": "3 ωρ. 21 λεπ.",
+      "Title": "Murder Mystery 2",
+      "ImageBack": "https://www.hollywoodreporter.com/wp-content/uploads/2023/03/MM2_20220217_08220_R3-H-2023.jpg?w=1296",
+      "ImageMain": "https://m.media-amazon.com/images/M/MV5BMzkyMjU1ZjMtMDJlMS00M2YzLWJhZDQtYjFjZTUyMzI2MDViXkEyXkFqcGdeQXVyMzQyMDgzOTU@._V1_FMjpg_UX1000_.jpg",
+      "Video": "http://s1.gmtdb.co/video/movies/Murder.Mystery.2.2023.mp4?id=0",
+      "Description": "Τέσσερα χρόνια αφότου επιλύουν το πρώτο τους μυστήριο φόνου, ο Νικ και η Όντρεϊ Σπιτς είναι πλέον ντετέκτιβ πλήρους απασχόλησης. Ενώ παλεύουν να ξεκινήσουν το δικό τους γραφείο ιδιωτικών ερευνών, είναι καλεσμένοι να γιορτάσουν τον γάμο του φίλου τους του μαχαραγιά στο ιδιωτικό νησί του. Οι μπελάδες όμως ακολουθούν και πάλι τους Σπιτς, αφού μόλις αρχίζουν οι εορτασμοί, ο γαμπρός απάγεται για λύτρα. Κάθε λαμπερός καλεσμένος, συγγενής αλλά και η ίδια η νύφη γίνονται αμέσως ύποπτοι.",
+      "Year": 2023,
+      "Genre": "Αστυνομική, Δράσης",
+      "Duration": "1 ωρ. 29 λεπ.",
       "isUnlocked": true,
-      "fetchVideo": true,
-      "beforeEnd": "5",
-      "Type": "media",
-      "StartString": "https://download",
-      "EndString": "\"",
-      "Start": 0,
-      "End": 0,
-      "Fetch": "MediaFire"
+      "fetchVideo": false
+    },
+    {
+      "Title": "Tetris",
+      "ImageBack": "http://retrododo.com/wp-content/uploads/2023/02/tetris-movie.jpg",
+      "ImageMain": "https://m.media-amazon.com/images/M/MV5BZmZmNTdiYjMtZDdmNi00ZGU4LThkYmQtZTFhZWNlYmUxYWZkXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg",
+      "Video": "http://s1.gmtdb.co/video/movies/Tetris.2023.mp4?id=0",
+      "Description": "Ο Χενκ Ρότζερς ανακαλύπτει το 1984 ένα παιχνίδι με τουβλάκια στο κομπιούτερ, και ρισκάρει τα πάντα ταξιδεύοντας στην ΕΣΣΔ, ώστε να συναντήσει τον εφευρέτη Αλεξέι Πατζίτνοφ και να τον βοηθήσει να προωθήσουν το Tetris στην αγορά. Αυτό που θα ακολουθήσει είναι μια πολυεθνική κούρσα ηρώων και αντιηρώων, ψυχρού πολέμου και δικαστηρίων, πριν το τόσο δημοφιλές παιχνίδι κατακτήσει τον πλανήτη. ",
+      "Year": 2023,
+      "Genre": "Βιογραφία, Δραματική",
+      "Duration": "1 ωρ. 58 λεπ.",
+      "isUnlocked": true,
+      "fetchVideo": false
+    },
+    {
+      "Title": "Creed III",
+      "ImageBack": "https://images.indianexpress.com/2019/08/the-two-towers-759.jpg",
+      "ImageMain": "https://m.media-amazon.com/images/M/MV5BZGMxZTdjZmYtMmE2Ni00ZTdkLWI5NTgtNjlmMjBiNzU2MmI5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+      "Video": "https://www.mediafire.com/file_premium/cq7g1b5igt9q03b/video/file",
+      "Description": "Μετά την πτώση του Γκάνταλφ στην άβυσσο της Κάζα-Ντουμ και τον θάνατο του Μπορομίρ, η Συντροφιά αναγκάζεται να χωριστεί. Αν και μοιράστηκαν σε τρεις ομάδες, το κάθε μέλος της αρχικής Συντροφιάς δεν ένιωσε λιγότερη την ευθύνη για τον ηρωικό σκοπό που έχουν αναλάβει. Χαμένοι στους λόφους του Έμιν Μιούιλ, ο Φρόντο και ο Σαμ συνειδητοποιούν ότι τους ακολουθεί το μυστηριώδες Γκόλουμ, ένα πανούργο πλάσμα που έχει υποστεί την επίδραση του Δαχτυλιδιού, και υπόσχεται, αν το ελευθερώσουν, να οδηγήσει τα Χόμπιτ ως τις Μαύρες Πύλες της Μόρντορ. Ο Σαμ δεν εμπιστεύεται τον νέο τους σύντροφο, αλλά ο Φρόντο νιώθει οίκτο για το Γκόλουμ, που όπως και ο ίδιος ήταν κάποτε κουβαλητής του Δαχτυλιδιού. Κι ενώ αυτοί συνεχίζουν την πορεία τους, ο Σάρουμαν έχει ήδη συγκεντρώσει το μέγιστο των σκοτεινών δυνάμεων που θα στρέψει ενάντια στην ανθρωπότητα με τη μορφή χιλιάδων αιμοβόρων Ουρούκ-Χάι.",
+      "Year": "2002",
+      "Genre": "Έπος, Περιπέτεια",
+      "Duration": "2 ωρ. 59 λεπ.",
+      "isUnlocked": true,
+      "fetchVideo": false
     },
     {
       "Title": "The Lord of the Rings: The Two Towers",
@@ -29,14 +46,7 @@
       "Genre": "Έπος, Περιπέτεια",
       "Duration": "2 ωρ. 59 λεπ.",
       "isUnlocked": true,
-      "fetchVideo": true,
-      "beforeEnd": "5",
-      "Type": "media",
-      "StartString": "https://download",
-      "EndString": "\"",
-      "Start": 0,
-      "End": 0,
-      "Fetch": "MediaFire"
+      "fetchVideo": true
     },
     {
       "Title": "The Lord of the Rings: The Fellowship of the Ring",
