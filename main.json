@@ -10,7 +10,14 @@
       "Genre": "Αστυνομική, Δράσης",
       "Duration": "1 ωρ. 29 λεπ.",
       "isUnlocked": true,
-      "fetchVideo": false
+      "fetchVideo": false, 
+      "beforeEnd": "5",
+      "Type": "media",
+      "StartString": "https://download",
+      "EndString": "\"",
+      "Start": 0,
+      "End": 0,
+      "Fetch": ""
     },
     {
       "Title": "Tetris",
@@ -22,7 +29,14 @@
       "Genre": "Βιογραφία, Δραματική",
       "Duration": "1 ωρ. 58 λεπ.",
       "isUnlocked": true,
-      "fetchVideo": false
+      "fetchVideo": false, 
+      "beforeEnd": "5",
+      "Type": "media",
+      "StartString": "https://download",
+      "EndString": "\"",
+      "Start": 0,
+      "End": 0,
+      "Fetch": ""
     },
     {
       "Title": "Creed III",
@@ -34,7 +48,14 @@
       "Genre": "Έπος, Περιπέτεια",
       "Duration": "2 ωρ. 59 λεπ.",
       "isUnlocked": true,
-      "fetchVideo": false
+      "fetchVideo": false, 
+      "beforeEnd": "5",
+      "Type": "media",
+      "StartString": "https://download",
+      "EndString": "\"",
+      "Start": 0,
+      "End": 0,
+      "Fetch": ""
     },
     {
       "Title": "The Lord of the Rings: The Two Towers",
@@ -46,7 +67,14 @@
       "Genre": "Έπος, Περιπέτεια",
       "Duration": "2 ωρ. 59 λεπ.",
       "isUnlocked": true,
-      "fetchVideo": true
+      "fetchVideo": true,
+      "beforeEnd": "5",
+      "Type": "media",
+      "StartString": "https://download",
+      "EndString": "\"",
+      "Start": 0,
+      "End": 0,
+      "Fetch": "MediaFire"
     },
     {
       "Title": "The Lord of the Rings: The Fellowship of the Ring",
