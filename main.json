@@ -1,6 +1,25 @@
 {
   "Movies": [
     {
+      "Title": "Deadpool",
+      "ImageBack": "https://m.media-amazon.com/images/M/MV5BMTYzMzUwMjAyNV5BMl5BanBnXkFtZTgwMDk2Nzc5NzE@._V1_.jpg",
+      "ImageMain": "https://m.media-amazon.com/images/M/MV5BYzE5MjY1ZDgtMTkyNC00MTMyLThhMjAtZGI5OTE1NzFlZGJjXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+      "Video": "https://www.mediafire.com/file_premium/p7vtrvk0g9mzlgc/video/file",
+      "Description": "Ο Γουέιντ Γουίλσον άνηκε στις ειδικές δυνάμεις του στρατού, αλλά κατέληξε μισθοφόρος. Όταν τον υποβάλλουν σε πειράματα για ένα κρυφό σχέδιο, το Weapon X, χωρίς τη συγκατάθεση του, θα αποκτήσει τη δύναμη να αυτοθεραπεύεται από κάθε τι που τον βάλλει. Από αυτό το σημείο έχει ένα νέο άλτερ-έγκο, αυτό του Deadpool. Οπλισμένος με τις νέες του δυνατότητες και με ένα καυστικό, διεστραμμένο χιούμορ, βάζει αυτοσκοπό να βρει αυτόν που είναι υπεύθυνος για τα πειράματα που σχεδόν του κατέστρεψαν τη ζωή, και να εκδικηθεί.",
+      "Year": 2016,
+      "Genre": "Δράση, Επιστημονική Φαντασία",
+      "Duration": "1 ωρ. 48 λεπ.",
+      "isUnlocked": true,
+      "fetchVideo": true,
+      "beforeEnd": "5",
+      "Type": "media",
+      "StartString": "https://download",
+      "EndString": "\"",
+      "Start": 0,
+      "End": 0,
+      "Fetch": "MediaFire"
+    },
+    {
       "Title": "Murder Mystery 2",
       "ImageBack": "https://www.hollywoodreporter.com/wp-content/uploads/2023/03/MM2_20220217_08220_R3-H-2023.jpg?w=1296",
       "ImageMain": "https://m.media-amazon.com/images/M/MV5BMzkyMjU1ZjMtMDJlMS00M2YzLWJhZDQtYjFjZTUyMzI2MDViXkEyXkFqcGdeQXVyMzQyMDgzOTU@._V1_FMjpg_UX1000_.jpg",
@@ -42,7 +61,7 @@
       "Title": "Creed III",
       "ImageBack": "https://www.creedmovie.net/images/share.jpg",
       "ImageMain": "https://m.media-amazon.com/images/M/MV5BYWY1ZDY4MmQtYjhiYS00N2QwLTk1NzgtOWI2YzUwZThjNDYwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
-      "Video": "https://www.mediafire.com/file_premium/cq7g1b5igt9q03b/video/file",
+      "Video": "https://www.mediafire.com/file_premium/9y1iwnlf0ditzn3/video/file",
       "Description": "Αφού κυριάρχησε στον κόσμο της πυγμαχίας, ο Άντονις Κριντ ακμάζει τόσο στην καριέρα όσο και στην οικογενειακή του ζωή. Όταν ένας παιδικός φίλος και πρώην θαύμα της πυγμαχίας, ο Ντέμιαν, επανεμφανίζεται μετά από μακρόχρονη ποινή στη φυλακή, είναι πρόθυμος να αποδείξει ότι αξίζει την ευκαιρία του στο ρινγκ. Η αντιπαράθεση όμως μεταξύ πρώην φίλων είναι κάτι περισσότερο από μια απλή διαμάχη. Για να διευθετήσει το σκορ, ο Άντονις πρέπει να βάλει το μέλλον του σε ρίσκο, για να πολεμήσει τον Ντέμιαν, έναν μαχητή που δεν έχει τίποτα να χάσει.",
       "Year": "2023",
       "Genre": "Αθλητική, Δραματική",
