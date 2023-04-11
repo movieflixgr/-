@@ -1,6 +1,25 @@
 {
   "Movies": [
     {
+      "Title": "Percy Jackson & the Olympians: The Lightning Thief",
+      "ImageBack": "https://images.moviesanywhere.com/797b21399dc506028cf2d704a9156443/b73b259d-58b4-46e0-9d6b-9a8fc02a5f39.jpg?w=2560&r=16x9",
+      "ImageMain": "https://m.media-amazon.com/images/M/MV5BMTQ5NDlmZWUtMjIyMC00NzQ3LTg3OWYtMzRkY2FiNzQ0Njc4XkEyXkFqcGdeQXVyNDQ2MTMzODA@._V1_.jpg",
+      "Video": "https://www.mediafire.com/file_premium/jqyokk7sj8pxdx7/video/file",
+      "Description": "Ο επιρρεπής σε μπελάδες Πέρσι Τζάκσον αντιμετωπίζει προβλήματα στο σχολείο, αλλά αυτό είναι το λιγότερο που θα έπρεπε να τον απασχολεί. Αν και βρισκόμαστε στον 21ο αιώνα, οι Θεοί του Ολύμπου μοιάζουν να έχουν ξεπηδήσει από τα βιβλία μυθολογίας του Πέρσι στην πραγματική ζωή. Ο νεαρός μαθαίνει πως ο πραγματικός του πατέρας είναι ο Ποσειδώνας, θεός της θάλασσας, πράγμα που σημαίνει πως ο Πέρσι είναι ημίθεος. Παράλληλα, ο Δίας κατηγορεί τον Πέρσι για την κλοπή της αστραπής του, η οποία αποτελεί όπλο μαζικής καταστροφής. Μια μεγάλη περιπέτεια, που κρύβει αμέτρητους κινδύνους, ξεκινά για τον Πέρσι.",
+      "Year": 2010,
+      "Genre": "Νεανική, Οικογενειακή",
+      "Duration": "1 ωρ. 58 λεπ.",
+      "isUnlocked": true,
+      "fetchVideo": true,
+      "beforeEnd": "5",
+      "Type": "media",
+      "StartString": "https://download",
+      "EndString": "\"",
+      "Start": 0,
+      "End": 0,
+      "Fetch": "MediaFire"
+    },
+    {
       "Title": "Deadpool",
       "ImageBack": "https://m.media-amazon.com/images/M/MV5BMTYzMzUwMjAyNV5BMl5BanBnXkFtZTgwMDk2Nzc5NzE@._V1_.jpg",
       "ImageMain": "https://m.media-amazon.com/images/M/MV5BYzE5MjY1ZDgtMTkyNC00MTMyLThhMjAtZGI5OTE1NzFlZGJjXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
