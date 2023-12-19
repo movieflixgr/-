@@ -1891,6 +1891,7 @@
       "Genre": "Περιπέτεια, Δράση",
       "Duration": "2 ωρ. 03 λεπ.",
       "isUnlocked": true,
+      "fetchVideo": true,
       "Type": "m3u8",
       "StartString": "'hls': '",
       "EndString": "',",
